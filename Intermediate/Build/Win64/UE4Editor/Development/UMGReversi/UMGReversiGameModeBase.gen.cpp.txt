@@ -1,0 +1,9 @@
+C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\Definitions.UMGReversi.h
+C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Unreal Project\UMGReversi\Source\UMGReversi/UMGReversiGameModeBase.h
+C:\UnrealEngine-4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\UnrealEngine-4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\UnrealEngine-4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\UnrealEngine-4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Inc\UMGReversi\UMGReversiGameModeBase.generated.h

@@ -1,0 +1,5 @@
+C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\Definitions.UMGReversi.h
+C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Unreal Project\UMGReversi\Source\UMGReversi/UMGReversiController.h
+C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Inc\UMGReversi\UMGReversiController.generated.h

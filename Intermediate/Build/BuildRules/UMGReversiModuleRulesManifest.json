@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal Project\\UMGReversi\\Source\\UMGReversi\\UMGReversi.Build.cs",
+		"C:\\Unreal Project\\UMGReversi\\Source\\UMGReversi.Target.cs",
+		"C:\\Unreal Project\\UMGReversi\\Source\\UMGReversiEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

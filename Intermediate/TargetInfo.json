@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UMGReversi",
+			"Path": "C:\\Unreal Project\\UMGReversi\\Source\\UMGReversi.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UMGReversiEditor",
+			"Path": "C:\\Unreal Project\\UMGReversi\\Source\\UMGReversiEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UMGReversi.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{637CB971-ABCE-4A5B-860D-341E5A44CFA8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UMGReversi.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UMGReversiEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{96A6219B-F3E5-40A5-962E-0BFD2182C32B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UMGReversi">
+      <UniqueIdentifier>{8E8BE3A8-7659-4B92-A9B4-50BFEC912EE9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UMGReversi\UMGReversi.Build.cs">
+      <Filter>Source\UMGReversi</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UMGReversi\UMGReversi.cpp">
+      <Filter>Source\UMGReversi</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UMGReversi\UMGReversi.h">
+      <Filter>Source\UMGReversi</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UMGReversi\UMGReversiBoard.cpp">
+      <Filter>Source\UMGReversi</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UMGReversi\UMGReversiBoard.h">
+      <Filter>Source\UMGReversi</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UMGReversi\UMGReversiController.cpp">
+      <Filter>Source\UMGReversi</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UMGReversi\UMGReversiController.h">
+      <Filter>Source\UMGReversi</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UMGReversi\UMGReversiGameModeBase.cpp">
+      <Filter>Source\UMGReversi</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UMGReversi\UMGReversiGameModeBase.h">
+      <Filter>Source\UMGReversi</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UMGReversi\UMGReversiTile.cpp">
+      <Filter>Source\UMGReversi</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UMGReversi\UMGReversiTile.h">
+      <Filter>Source\UMGReversi</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

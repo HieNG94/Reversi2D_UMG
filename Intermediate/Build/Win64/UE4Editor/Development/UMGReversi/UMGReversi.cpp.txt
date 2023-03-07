@@ -1,0 +1,2 @@
+C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\Definitions.UMGReversi.h
+C:\Unreal Project\UMGReversi\Source\UMGReversi\UMGReversi.h
