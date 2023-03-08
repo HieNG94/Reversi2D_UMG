@@ -18,14 +18,17 @@ protected:
 	UPROPERTY(BlueprintReadWrite, meta = (BindWidget))
 	class UButton* Btn;
 
-	virtual void NativeConstruct() override;
-
 	UFUNCTION()
 	void OnBtnClicked();
 
+	virtual void NativeConstruct() override;
+
 public:
+	UPROPERTY(Transient, meta = (BindWidgetAnim))
+	class UWidgetAnimation* FlipAnimation;
+
 	UFUNCTION(BlueprintCallable)
-	void SetTileStatus(int32 TState, bool TPlaced = false, bool TCanBMove = false, bool TCanWMove = false);
+	void SetTileStatus(int32 TState, bool TPlaced = false, bool TCanMove = false);
 
 	void UpdateTile();
 	void PlaceDisc();
@@ -33,13 +36,14 @@ public:
 private:
 	class AUMGReversiGameModeBase* GM;
 	int32 State;
+	int32 Capturable;
 	bool Placed;
-	bool CanBlackMove;
-	bool CanWhiteMove;
+	bool CanMove;
 
 public:
 	int32 GetState() { return State; }
-	bool GetCanBlackMove() { return CanBlackMove; }
-	bool GetCanWhiteMove() { return CanWhiteMove; }
+	void SetCapturable(int32 Num) { Capturable = Num; }
+	int32 GetCapturable() { return Capturable; }
+	bool GetCanMove() { return CanMove; }
 	bool GetPlaced() { return Placed; }
 };

@@ -1,0 +1,1707 @@
+﻿Log file open, 03/08/23 12:55:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UMGReversi
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.072274
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-0
+LogInit: Engine Version: 4.27.2-0+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-0+++UE4+Release-4.27
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 7700 8-Core Processor              , GPU: NVIDIA GeForce RTX 3060 Ti
+LogInit: Compiled (64-bit): Feb 23 2023 09:24:06
+LogInit: Compiled with Visual C++: 19.35.32215.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/UnrealEngine-4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Engine.ini]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Engine.ini]
+[2023.03.08-05.55.03:192][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Engine.ini]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Engine.ini]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.03.08-05.55.03:192][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Engine.ini]
+[2023.03.08-05.55.03:192][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Engine.ini]
+[2023.03.08-05.55.03:198][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.08-05.55.03:198][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.08-05.55.03:198][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.03.08-05.55.03:198][  0]LogHAL: Display: Platform has ~ 32 GB [33444212736 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.08-05.55.03:198][  0]LogInit: Going up to parent DeviceProfile []
+[2023.03.08-05.55.03:198][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.08-05.55.03:198][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Scalability.ini]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.03.08-05.55.03:199][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Engine.ini]
+[2023.03.08-05.55.03:199][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Project/UMGReversi/Saved/Config/Windows/Editor.ini]
+[2023.03.08-05.55.03:199][  0]LogInit: Computer: ACT-DES23003
+[2023.03.08-05.55.03:199][  0]LogInit: User: Admn
+[2023.03.08-05.55.03:199][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.03.08-05.55.03:199][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.08-05.55.03:199][  0]LogMemory: Memory total: Physical=31.1GB (32GB approx)
+[2023.03.08-05.55.03:199][  0]LogMemory: Platform Memory Stats for Windows
+[2023.03.08-05.55.03:199][  0]LogMemory: Process Physical Memory: 143.46 MB used, 143.46 MB peak
+[2023.03.08-05.55.03:199][  0]LogMemory: Process Virtual Memory: 125.79 MB used, 125.79 MB peak
+[2023.03.08-05.55.03:199][  0]LogMemory: Physical Memory: 13143.24 MB used,  18751.65 MB free, 31894.89 MB total
+[2023.03.08-05.55.03:199][  0]LogMemory: Virtual Memory: 134197768.00 MB used,  19957.30 MB free, 134217728.00 MB total
+[2023.03.08-05.55.03:202][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.08-05.55.03:223][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.03.08-05.55.03:223][  0]LogInit: Using OS detected language (en-US).
+[2023.03.08-05.55.03:224][  0]LogInit: Using OS detected locale (en-US).
+[2023.03.08-05.55.03:227][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.03.08-05.55.03:329][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.08-05.55.03:336][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.08-05.55.03:345][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.08-05.55.03:345][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.08-05.55.03:413][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.03.08-05.55.03:414][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.03.08-05.55.03:414][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.03.08-05.55.03:414][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.03.08-05.55.03:414][  0]LogD3D11RHI: D3D11 adapters:
+[2023.03.08-05.55.03:494][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Ti' (Feature Level 11_0)
+[2023.03.08-05.55.03:495][  0]LogD3D11RHI:       8038/0/15947 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.03.08-05.55.03:519][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2023.03.08-05.55.03:519][  0]LogD3D11RHI:       485/0/15947 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2023.03.08-05.55.03:521][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.03.08-05.55.03:521][  0]LogD3D11RHI:       0/0/15947 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.03.08-05.55.03:521][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.03.08-05.55.03:521][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Ti
+[2023.03.08-05.55.03:521][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.08-05.55.03:521][  0]LogD3D11RHI:     DeviceId    : 2489
+[2023.03.08-05.55.03:521][  0]LogD3D11RHI:     SubSysId    : c9721462
+[2023.03.08-05.55.03:521][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.08-05.55.03:521][  0]LogD3D11RHI:     DedicatedVideoMemory : 8428453888 bytes
+[2023.03.08-05.55.03:521][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.08-05.55.03:521][  0]LogD3D11RHI:     SharedSystemMemory : 16722106368 bytes
+[2023.03.08-05.55.03:521][  0]LogD3D11RHI:     AdapterLuid : 0 79595
+[2023.03.08-05.55.03:528][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.03.08-05.55.03:528][  0]LogD3D11RHI:     GPU DeviceId: 0x2489 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.08-05.55.03:528][  0]LogWindows: EnumDisplayDevices:
+[2023.03.08-05.55.03:528][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1)
+[2023.03.08-05.55.03:529][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:1)
+[2023.03.08-05.55.03:529][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2023.03.08-05.55.03:529][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2023.03.08-05.55.03:529][  0]LogWindows:    4. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.03.08-05.55.03:529][  0]LogWindows:    5. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.03.08-05.55.03:529][  0]LogWindows:    6. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.03.08-05.55.03:530][  0]LogWindows:    7. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.03.08-05.55.03:530][  0]LogWindows:    8. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.03.08-05.55.03:530][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.03.08-05.55.03:530][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
+[2023.03.08-05.55.03:530][  0]LogD3D11RHI:   Driver Version: 528.49 (internal:31.0.15.2849, unified:528.49)
+[2023.03.08-05.55.03:530][  0]LogD3D11RHI:      Driver Date: 2-2-2023
+[2023.03.08-05.55.03:530][  0]LogRHI: Texture pool is 5626 MB (70% of 8038 MB)
+[2023.03.08-05.55.03:530][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.03.08-05.55.03:530][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Ti
+[2023.03.08-05.55.03:530][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.08-05.55.03:530][  0]LogD3D11RHI:     DeviceId    : 2489
+[2023.03.08-05.55.03:530][  0]LogD3D11RHI:     SubSysId    : c9721462
+[2023.03.08-05.55.03:530][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.08-05.55.03:530][  0]LogD3D11RHI:     DedicatedVideoMemory : 8428453888 bytes
+[2023.03.08-05.55.03:530][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.08-05.55.03:530][  0]LogD3D11RHI:     SharedSystemMemory : 16722106368 bytes
+[2023.03.08-05.55.03:530][  0]LogD3D11RHI:     AdapterLuid : 0 79595
+[2023.03.08-05.55.03:584][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.03.08-05.55.03:584][  0]LogD3D11RHI: Async texture creation enabled
+[2023.03.08-05.55.03:584][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.03.08-05.55.03:599][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.03.08-05.55.03:614][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.03.08-05.55.03:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.03.08-05.55.03:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.08-05.55.03:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.08-05.55.03:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.08-05.55.03:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.08-05.55.03:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.08-05.55.03:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.08-05.55.03:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.08-05.55.03:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.08-05.55.03:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.08-05.55.03:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.08-05.55.03:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.08-05.55.03:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.08-05.55.03:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.03.08-05.55.03:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.03.08-05.55.03:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.03.08-05.55.03:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.03.08-05.55.03:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.03.08-05.55.03:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.03.08-05.55.03:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.08-05.55.03:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.08-05.55.03:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.03.08-05.55.03:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.08-05.55.03:802][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.08-05.55.03:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.08-05.55.03:804][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.03.08-05.55.03:808][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.08-05.55.03:824][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.03.08-05.55.03:839][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.08-05.55.03:839][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (../../../../Unreal Project/UMGReversi/Intermediate/Shaders/WorkingDirectory/37836/).
+[2023.03.08-05.55.03:839][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Admn/AppData/Local/Temp/UnrealShaderWorkingDir/8EFF607A467344CFF74C2ABFBFB88915/'.
+[2023.03.08-05.55.03:839][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.08-05.55.03:840][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.03.08-05.55.03:840][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.03.08-05.55.04:260][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.03.08-05.55.04:289][  0]LogDerivedDataCache: Loaded boot cache 0.03s 95MB ../../../../Unreal Project/UMGReversi/DerivedDataCache/Boot.ddc.
+[2023.03.08-05.55.04:289][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../../Unreal Project/UMGReversi/DerivedDataCache/Boot.ddc
+[2023.03.08-05.55.04:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal Project/UMGReversi/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.08-05.55.04:289][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.03.08-05.55.04:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.08-05.55.04:289][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2023.03.08-05.55.04:305][  0]LogDerivedDataCache: Speed tests for ../../../Engine/DerivedDataCache took 0.01 seconds
+[2023.03.08-05.55.04:305][  0]LogDerivedDataCache: Display: Performance to ../../../Engine/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1767.13MBs, RandomWriteSpeed=66.64MBs. Assigned SpeedClass 'Local'
+[2023.03.08-05.55.04:305][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2023.03.08-05.55.04:305][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.08-05.55.04:305][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.03.08-05.55.04:330][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.08-05.55.04:331][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.08-05.55.04:343][  0]LogAssetRegistry: FAssetRegistry took 0.0017 seconds to start up
+[2023.03.08-05.55.04:474][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.08-05.55.04:474][  0]LogInit: Active device profile: [0000024740066E00][000002473F03C440 49] Windows
+[2023.03.08-05.55.04:474][  0]LogInit: Profiles: [0000024740066E00][000002473F03C440 49] Windows, [000002473FFF5300][000002473F0405C0 49] WindowsNoEditor, [0000024740065100][000002473F044740 49] WindowsServer, [000002473FFF6F00][000002473F0488C0 49] WindowsClient, [0000024740064E00][000002473F04CA40 49] IOS, [000002473FFF7300][000002473F050BC0 49] iPadAir, [000002473FFF4500][000002473F054D40 49] iPadAir2, [000002473FF9CE00][000002473F05D000 49] IPadPro, [000002473FF9CF00][000002473F059040 49] iPadAir3, [0000024740066D00][000002473F0611C0 49] iPadAir4, [000002473FF9D000][000002473F065340 49] iPadMini2, [000002473FF9C800][000002473F0694C0 49] iPadMini3, [000002473FFF5900][000002473F06D640 49] iPadMini4, [000002473FF9E800][000002473F0717C0 49] iPadMini5, [000002473FFC8500][000002473F079A80 49] iPhone6, [000002473FFC8600][000002473F075AC0 49] iPodTouch6, [0000024740065E00][0000024736A7A1C0 49] iPhone7, [0000024740067500][000002473F07C200 49] iPodTouch7, [000002473FFCBE00][000002473F080340 49] iPhone5S, [000002473FFF5000][000002473F084480 49] iPhone6Plus, [000002473FFC8A00][000002473F0885C0 49] iPhone6S, [000002473FFF7600][00000247400A0740 49] iPhone6SPlus, [000002473FFCA300][00000247400A48C0 49] iPhone7Plus, [000002473FFF7800][00000247400A8A40 49] iPhoneSE, [000002473FFCA200][00000247400ACBC0 49] iPhone8, [000002473FFF4600][00000247400B0D40 49] iPhone8Plus, [0000024740064900][00000247400B4EC0 49] iPhoneX, [000002473FFF4200][00000247400B9040 49] iPhoneXS, [0000024740064F00][00000247400BD1C0 49] iPhoneXSMax, [000002473FFF5B00][00000247400C1340 49] iPhoneXR, [0000024740066A00][00000247400C54C0 49] iPhone11, [000002473FFF7900][00000247400C9640 49] iPhone11Pro, [0000024740064300][00000247400CD7C0 49] iPhone11ProMax, [000002473FFF4B00][00000247400D1940 49] iPhoneSE2, [0000024740066800][00000247400D5AC0 49] iPhone12Mini, [000002473FFF4F00][00000247400D80C0 49] iPhone12, [0000024740065800][00000247400DC240 49] iPhone12Pro, [000002473FFF4800][000002473F08C380 49] iPhone12ProMax, [0000024740066B00][00000247400E04C0 49] iPadPro105, [000002473FFF7700][00000247400E4600 49] iPadPro129, [0000024740065300][00000247400E8740 49] iPadPro97, [000002473FFF7A00][00000247400F08C0 49] iPadPro2_129, [0000024740064500][00000247400F4A40 49] iPad5, [000002473FFF7C00][00000247400F8BC0 49] iPad6, [0000024740065000][00000247400FCD40 49] iPad7, [000002473FFF7500][0000024740100EC0 49] iPad8, [0000024740066C00][0000024740105040 49] iPadPro11, [000002473FFF6C00][00000247401091C0 49] iPadPro2_11, [0000024740065200][000002474010D340 49] iPadPro3_129, [000002473FFF5500][00000247401114C0 49] iPadPro4_129, [0000024740065F00][0000024740115640 49] AppleTV, [000002473FFF7200][00000247401197C0 49] AppleTV4K, [0000024740064200][000002474011D940 49] TVOS, [000002473FFF7400][0000024740121AC0 49] Mac, [0000024740064700][00000247401240C0 49] MacClient, [000002473FFF5100][0000024740128240 49] MacNoEditor, [0000024740067600][000002474012C3C0 49] MacServer, [000002473FFF6500][0000024740130540 49] Linux, [0000024740067700][00000247400EC680 49] LinuxAArch64, [000002473FFF5200][00000247401347C0 49] LinuxNoEditor, [0000024740064B00][0000024740138900 49] LinuxAArch64NoEditor, [000002473FFF6400][0000024740140A80 49] LinuxClient, [0000024740065A00][0000024740144C00 49] LinuxAArch64Client, [000002473FFF7E00][0000024740148D80 49] LinuxServer, [0000024740065500][000002474014CF00 49] LinuxAArch64Server, [000002473FFF4A00][0000024740151080 49] Android, [0000024740067300][0000024740155200 49] Android_Low, [000002473FFF7D00][0000024740159380 49] Android_Mid, [000002473FFC9900][000002474015D500 49] Android_High, [000002473FF9F200][0000024740161680 49] Android_Default, [000002473FFC9300][0000024740165800 49] Android_Adreno4xx, [000002473FF9E100][00000247401C3980 49] Android_Adreno5xx_Low, [000002473FFC8200][00000247401CBB00 49] Android_Adreno5xx, [000002473FF9DF00][00000247385C0100 49] Android_Adreno6xx, [000002473FFCA800][00000247385C8280 49] Android_Adreno6xx_Vulkan, [000002473FF9FD00][0000024738610400 49] Android_Mali_T6xx, [000002473FFC9500][0000024738618580 49] Android_Mali_T7xx, [000002473FF9D500][000002473861C700 49] Android_Mali_T8xx, [000002473FFCA100][000002474013C840 49] Android_Mali_G71, [000002473FF9DC00][0000024738620980 49] Android_Mali_G72, [000002473FFCB300][0000024738624AC0 49] Android_Mali_G72_Vulkan, [000002473FF9FF00][0000024737BA0C40 49] Android_Mali_G76, [000002473FFCB500][000002473C972DC0 49] Android_Mali_G76_Vulkan, [000002473FF9E600][000002473C976F40 49] Android_Mali_G77, [000002473FFCAB00][000002473C97B0C0 49] Android_Mali_G77_Vulkan, [000002473FF9CA00][000002473C9A5240 49] Android_Mali_G78, [000002473FFC9E00][000002473C9A93C0 49] Android_Mali_G78_Vulkan, [000002473FF9C100][000002474016D540 49] Android_Mali_G710, [000002473FFCAA00][00000247401B16C0 49] Android_Mali_G710_Vulkan, [000002473FF9ED00][00000247401BD840 49] Android_Vulkan_SM5, [000002473FFC8C00][00000247404739C0 49] Android_PowerVR_G6xxx, [000002473FF9E500][0000024737BE3B40 49] Android_PowerVR_GT7xxx, [000002473FFC9700][0000024737BE6140 49] Android_PowerVR_GE8xxx, [000002473FF9EB00][0000024736CF82C0 49] Android_PowerVR_GM9xxx, [000002473FFC9800][0000024736CFC440 49] Android_PowerVR_GM9xxx_Vulkan, [000002473FF9E300][0000024736DA05C0 49] Android_TegraK1, [000002473FFCA000][0000024736DA4740 49] Android_Unknown_Vulkan, [000002473FF9DA00][0000024736DA88C0 49] Lumin, [000002473FFC9B00][0000024737B9CA00 49] Lumin_Desktop, [000002473FF9CB00][0000024736DACB40 49] HoloLens, 
+[2023.03.08-05.55.04:545][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.08-05.55.04:545][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.08-05.55.04:545][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.08-05.55.04:545][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.08-05.55.04:545][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.08-05.55.04:555][  0]LogNetVersion: UMGReversi 1.0.0, NetCL: 0, EngineNetVer: 17, GameNetVer: 0 (Checksum: 4183442742)
+[2023.03.08-05.55.04:756][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.08-05.55.04:787][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.03.08-05.55.04:791][  0]LogUObjectArray: 17164 objects as part of root set at end of initial load.
+[2023.03.08-05.55.04:791][  0]LogUObjectAllocator: 4298528 out of 0 bytes used by permanent object pool.
+[2023.03.08-05.55.04:791][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.08-05.55.04:922][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 61F73CEF4B0D088386DDBCA554CAD53A | Instance: B65B4AEE412246C79EABFEBFC3988170 (ACT-DES23003-37836).
+[2023.03.08-05.55.04:949][  0]LogPython: Using Python 3.7.7
+[2023.03.08-05.55.05:269][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.08-05.55.05:273][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.08-05.55.05:462][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.08-05.55.05:494][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.08-05.55.05:505][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.08-05.55.05:505][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.08-05.55.05:566][  0]SourceControl: Source control is disabled
+[2023.03.08-05.55.05:566][  0]SourceControl: Source control is disabled
+[2023.03.08-05.55.05:568][  0]SourceControl: Source control is disabled
+[2023.03.08-05.55.05:569][  0]SourceControl: Source control is disabled
+[2023.03.08-05.55.05:573][  0]SourceControl: Source control is disabled
+[2023.03.08-05.55.05:576][  0]LogUProjectInfo: Found projects:
+[2023.03.08-05.55.05:585][  0]LogCollectionManager: Loaded 0 collections in 0.002132 seconds
+[2023.03.08-05.55.05:600][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Project/UMGReversi/Saved/Collections/' took 0.00s
+[2023.03.08-05.55.05:600][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Project/UMGReversi/Content/Developers/Admn/Collections/' took 0.00s
+[2023.03.08-05.55.05:600][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Project/UMGReversi/Content/Collections/' took 0.00s
+[2023.03.08-05.55.05:600][  0]LogOcInput: OculusInput pre-init called
+[2023.03.08-05.55.05:717][  0]LogEngine: Initializing Engine...
+[2023.03.08-05.55.05:718][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.03.08-05.55.05:718][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.03.08-05.55.05:718][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.03.08-05.55.05:719][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.03.08-05.55.05:779][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.08-05.55.05:784][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.08-05.55.05:788][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.08-05.55.05:790][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.08-05.55.05:790][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.08-05.55.05:790][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.08-05.55.05:790][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.08-05.55.05:791][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-05.55.05:791][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-05.55.05:791][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-05.55.05:791][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-05.55.05:791][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-05.55.05:791][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-05.55.05:791][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-05.55.05:791][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-05.55.05:791][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-05.55.05:791][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-05.55.05:791][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-05.55.05:791][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-05.55.05:798][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-05.55.05:799][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-05.55.05:820][  0]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.03.08-05.55.05:821][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-05.55.05:822][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-05.55.05:822][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-05.55.05:822][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-05.55.05:822][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-05.55.05:822][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-05.55.05:823][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-05.55.05:823][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-05.55.05:823][  0]LogInit: FAudioDevice initialized.
+[2023.03.08-05.55.05:823][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.08-05.55.05:823][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.08-05.55.05:858][  0]LogDerivedDataCache: Saved boot cache 0.03s 95MB ../../../../Unreal Project/UMGReversi/DerivedDataCache/Boot.ddc.
+[2023.03.08-05.55.05:858][  0]LogInit: Texture streaming: Enabled
+[2023.03.08-05.55.05:865][  0]LogAnalytics: Display: [UEEditor.UnrealEngine.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-0+++UE4+Release-4.27
+[2023.03.08-05.55.05:867][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.08-05.55.05:867][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={3CFBF96A-4A26-B4A7-3071-C8A473D972C2}
+[2023.03.08-05.55.05:867][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.03.08-05.55.05:868][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.03.08-05.55.05:887][  0]LogInit: Transaction tracking system initialized
+[2023.03.08-05.55.05:897][  0]BlueprintLog: New page: Editor Load
+[2023.03.08-05.55.05:926][  0]LocalizationService: Localization service is disabled
+[2023.03.08-05.55.05:937][  0]TimingProfiler: Initialize
+[2023.03.08-05.55.05:937][  0]TimingProfiler: OnSessionChanged
+[2023.03.08-05.55.05:937][  0]LoadingProfiler: Initialize
+[2023.03.08-05.55.05:937][  0]LoadingProfiler: OnSessionChanged
+[2023.03.08-05.55.05:937][  0]NetworkingProfiler: Initialize
+[2023.03.08-05.55.05:937][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.08-05.55.05:937][  0]MemoryProfiler: Initialize
+[2023.03.08-05.55.05:937][  0]MemoryProfiler: OnSessionChanged
+[2023.03.08-05.55.06:013][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.03.08-05.55.06:013][  0]LogCook: Display: Mobile HDR setting 1
+[2023.03.08-05.55.06:108][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Project/UMGReversi/Content/' took 0.00s
+[2023.03.08-05.55.06:193][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.08-05.55.06:194][  0]SourceControl: Source control is disabled
+[2023.03.08-05.55.06:194][  0]LogUnrealEdMisc: Loading editor; pre map load, took 3.425
+[2023.03.08-05.55.06:195][  0]Cmd: MAP LOAD FILE="../../../../Unreal Project/UMGReversi/Content/UMGReversi/Maps/ReversiWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.08-05.55.06:195][  0]LightingResults: New page: Lighting Build
+[2023.03.08-05.55.06:195][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-05.55.06:196][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-05.55.06:196][  0]MapCheck: New page: Map Check
+[2023.03.08-05.55.06:196][  0]LightingResults: New page: Lighting Build
+[2023.03.08-05.55.06:205][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.08-05.55.06:207][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.08-05.55.06:209][  0]LogLinker: Error: HOTRELOADED_UMGReversiGameModeBase_1 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../Unreal Project/UMGReversi/Content/UMGReversi/Blueprints/UI/WPB_StartMenu.uasset)
+[2023.03.08-05.55.06:209][  0]LogLinker: Error: HOTRELOADED_UMGReversiGameModeBase_1 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../Unreal Project/UMGReversi/Content/UMGReversi/Blueprints/UI/WPB_StartMenu.uasset)
+[2023.03.08-05.55.06:232][  0]LogLinker: Error: HOTRELOADED_UMGReversiGameModeBase_1 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../Unreal Project/UMGReversi/Content/UMGReversi/Blueprints/UI/WPB_StartMenu.uasset)
+[2023.03.08-05.55.06:232][  0]LogLinker: Error: HOTRELOADED_UMGReversiGameModeBase_1 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../Unreal Project/UMGReversi/Content/UMGReversi/Blueprints/UI/WPB_StartMenu.uasset)
+[2023.03.08-05.55.06:242][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ReversiWorld'.
+[2023.03.08-05.55.06:243][  0]LogAIModule: Creating AISystem for world ReversiWorld
+[2023.03.08-05.55.06:244][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.08-05.55.06:247][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.03.08-05.55.06:247][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.08-05.55.06:248][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2023.03.08-05.55.06:248][  0]LogFileHelpers: Loading map 'ReversiWorld' took 0.053
+[2023.03.08-05.55.06:249][  0]LogUnrealEdMisc: Total Editor Startup Time, took 3.479
+[2023.03.08-05.55.06:554][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.03.08-05.55.06:595][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-05.55.06:598][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-05.55.06:601][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-05.55.06:604][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-05.55.06:604][  0]LogSlate: The tab "/Game/Reversi/Test/WBP_EditorTest.WBP_EditorTest_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2023.03.08-05.55.06:614][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0061 seconds. Added 3825 classes and 928 folders.
+[2023.03.08-05.55.06:616][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.03.08-05.55.06:616][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:616][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.03.08-05.55.06:616][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2023.03.08-05.55.06:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.03.08-05.55.06:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.03.08-05.55.06:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.03.08-05.55.06:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.03.08-05.55.06:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/StarterContent.upack)
+[2023.03.08-05.55.06:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.03.08-05.55.06:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.03.08-05.55.06:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.03.08-05.55.06:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.03.08-05.55.06:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.03.08-05.55.06:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_Flying.upack)
+[2023.03.08-05.55.06:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.03.08-05.55.06:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.03.08-05.55.06:619][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.03.08-05.55.06:619][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:619][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.03.08-05.55.06:619][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.03.08-05.55.06:619][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:619][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.03.08-05.55.06:619][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.08-05.55.06:619][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:619][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_Rolling.upack)
+[2023.03.08-05.55.06:619][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.08-05.55.06:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.03.08-05.55.06:620][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.03.08-05.55.06:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.03.08-05.55.06:620][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.08-05.55.06:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.03.08-05.55.06:620][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.08-05.55.06:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.03.08-05.55.06:620][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.03.08-05.55.06:621][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:621][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.03.08-05.55.06:621][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.08-05.55.06:621][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:621][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_TopDown.upack)
+[2023.03.08-05.55.06:621][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.08-05.55.06:621][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:621][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.03.08-05.55.06:621][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.03.08-05.55.06:622][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:622][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.03.08-05.55.06:622][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.03.08-05.55.06:622][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:622][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.03.08-05.55.06:622][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.08-05.55.06:622][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:622][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.03.08-05.55.06:622][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.08-05.55.06:622][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:622][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.03.08-05.55.06:622][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.08-05.55.06:623][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:623][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.03.08-05.55.06:623][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.08-05.55.06:623][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:623][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.03.08-05.55.06:623][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.03.08-05.55.06:623][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.08-05.55.06:623][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.08-05.55.06:623][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.08-05.55.06:623][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UnrealEngine-4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.08-05.55.06:623][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UnrealEngine-4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.03.08-05.55.06:623][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2023.03.08-05.55.06:653][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.03.08-05.55.06:654][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.03.08-05.55.06:706][  0]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.08-05.55.06:707][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.08-05.55.06:707][  0]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.08-05.55.06:710][  0]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.08-05.55.06:784][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2023.03.08-05.55.06:811][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.08-05.55.06:861][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.03.08-05.55.06:861][  0]LogLoad: (Engine Initialization) Total time: 4.09 seconds
+[2023.03.08-05.55.06:861][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.08-05.55.06:929][  0]LogAssetRegistry: Asset discovery search completed in 2.5872 seconds
+[2023.03.08-05.55.06:932][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.03.08-05.55.06:934][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.08-05.55.08:924][227]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.08-05.55.08:927][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-05.55.08:928][227]PIE: New page: PIE session: ReversiWorld (Mar 8, 2023, 7:55:08 PM)
+[2023.03.08-05.55.08:929][227]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.03.08-05.55.08:929][227]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.08-05.55.08:929][227]LogPlayLevel: Creating play world package: /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-05.55.08:930][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000437s)
+[2023.03.08-05.55.08:930][227]LogAIModule: Creating AISystem for world ReversiWorld
+[2023.03.08-05.55.08:931][227]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2023.03.08-05.55.08:931][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UMGReversi/Maps/ReversiWorld.ReversiWorld to /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld (0.001162s)
+[2023.03.08-05.55.08:939][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.08-05.55.08:940][227]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.08-05.55.08:940][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-05.55.08:940][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-05.55.08:940][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-05.55.08:940][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-05.55.08:940][227]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-05.55.08:940][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-05.55.08:940][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-05.55.08:940][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-05.55.08:941][227]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-05.55.08:941][227]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-05.55.08:941][227]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-05.55.08:941][227]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-05.55.08:943][227]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-05.55.08:943][227]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-05.55.08:950][227]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.03.08-05.55.08:951][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-05.55.08:951][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-05.55.08:951][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-05.55.08:951][227]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-05.55.08:951][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-05.55.08:951][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-05.55.08:952][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-05.55.08:952][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-05.55.08:952][227]LogInit: FAudioDevice initialized.
+[2023.03.08-05.55.08:952][227]LogAudio: Display: Audio Device (ID: 2) registered with world 'ReversiWorld'.
+[2023.03.08-05.55.08:957][227]LogLoad: Game class is 'BP_UMGReversiGameMode_C'
+[2023.03.08-05.55.08:958][227]LogWorld: Bringing World /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld up for play (max tick rate 0) at 2023.03.08-12.55.08
+[2023.03.08-05.55.08:958][227]LogWorld: Bringing up level for play took: 0.000181
+[2023.03.08-05.55.08:958][227]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2023.03.08-05.55.08:960][227]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2023.03.08-05.55.08:961][227]PIE: Server logged in
+[2023.03.08-05.55.08:962][227]PIE: Play in editor total start time 0.036 seconds.
+[2023.03.08-05.55.15:441][999]LogTemp: Warning: Capturable : 0
+[2023.03.08-05.55.16:241][ 95]LogTemp: Warning: Capturable : 0
+[2023.03.08-05.55.16:725][153]LogTemp: Warning: Capturable : 0
+[2023.03.08-05.55.16:916][176]LogTemp: Warning: Capturable : 0
+[2023.03.08-05.55.17:450][240]LogTemp: Warning: Capturable : 0
+[2023.03.08-05.55.17:633][262]LogTemp: Warning: Capturable : 0
+[2023.03.08-05.55.18:274][339]LogTemp: Warning: Capturable : 0
+[2023.03.08-05.55.45:330][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-05.55.45:330][578]LogWorld: BeginTearingDown for /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-05.55.45:330][578]LogWorld: UWorld::CleanupWorld for ReversiWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-05.55.45:330][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-05.55.45:336][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-05.55.45:337][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-05.55.45:340][578]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.08-05.55.45:340][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-05.55.45:340][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-05.55.45:342][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-05.55.45:343][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.03.08-05.55.45:400][585]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.03.08-05.55.57:502][ 20]LogHotReload: New module detected: UE4Editor-UMGReversi-0007.dll
+[2023.03.08-05.55.57:849][ 22]LogHotReload: Starting Hot-Reload from IDE
+[2023.03.08-05.55.57:851][ 22]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.08-05.55.57:882][ 22]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UMGReversi' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2023.03.08-05.55.57:884][ 22]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2023.03.08-05.55.57:916][ 22]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0064 seconds. Added 3825 classes and 928 folders.
+[2023.03.08-05.55.57:920][ 22]Display: HotReload took  0.1s.
+[2023.03.08-05.55.58:831][ 24]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.08-05.55.58:836][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-05.55.58:836][ 24]PIE: New page: PIE session: ReversiWorld (Mar 8, 2023, 7:55:58 PM)
+[2023.03.08-05.55.58:859][ 24]LogPlayLevel: Creating play world package: /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-05.55.58:860][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000426s)
+[2023.03.08-05.55.58:860][ 24]LogAIModule: Creating AISystem for world ReversiWorld
+[2023.03.08-05.55.58:860][ 24]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2023.03.08-05.55.58:860][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UMGReversi/Maps/ReversiWorld.ReversiWorld to /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld (0.001186s)
+[2023.03.08-05.55.58:863][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.03.08-05.55.58:863][ 24]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.08-05.55.58:863][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-05.55.58:863][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-05.55.58:863][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-05.55.58:863][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-05.55.58:863][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-05.55.58:863][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-05.55.58:863][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-05.55.58:863][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-05.55.58:864][ 24]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-05.55.58:864][ 24]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-05.55.58:864][ 24]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-05.55.58:864][ 24]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-05.55.58:866][ 24]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-05.55.58:866][ 24]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-05.55.58:872][ 24]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.03.08-05.55.58:873][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-05.55.58:873][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-05.55.58:873][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-05.55.58:873][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-05.55.58:873][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-05.55.58:873][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-05.55.58:874][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-05.55.58:874][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-05.55.58:874][ 24]LogInit: FAudioDevice initialized.
+[2023.03.08-05.55.58:874][ 24]LogAudio: Display: Audio Device (ID: 3) registered with world 'ReversiWorld'.
+[2023.03.08-05.55.58:878][ 24]LogLoad: Game class is 'BP_UMGReversiGameMode_C'
+[2023.03.08-05.55.58:878][ 24]LogWorld: Bringing World /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld up for play (max tick rate 0) at 2023.03.08-12.55.58
+[2023.03.08-05.55.58:878][ 24]LogWorld: Bringing up level for play took: 0.000171
+[2023.03.08-05.55.58:878][ 24]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2023.03.08-05.55.58:880][ 24]PIE: Server logged in
+[2023.03.08-05.55.58:880][ 24]PIE: Play in editor total start time 0.045 seconds.
+[2023.03.08-05.56.06:709][958]LogTemp: Warning: Capturable : 0
+[2023.03.08-05.56.06:862][976]LogAnalytics: Display: [UEEditor.UnrealEngine.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-0+++UE4+Release-4.27
+[2023.03.08-05.56.07:593][976]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Crashed, SessionId={3CFBF96A-4A26-B4A7-3071-C8A473D972C2}
+[2023.03.08-05.56.09:782][239]LogTemp: Warning: Capturable : 0
+[2023.03.08-05.56.13:720][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-05.56.13:720][707]LogWorld: BeginTearingDown for /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-05.56.13:720][707]LogWorld: UWorld::CleanupWorld for ReversiWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-05.56.13:720][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-05.56.13:726][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-05.56.13:727][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-05.56.13:730][707]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.08-05.56.13:730][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-05.56.13:730][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-05.56.13:732][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-05.56.13:734][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.03.08-05.56.13:783][713]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.03.08-05.56.14:415][788]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.08-05.56.14:418][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-05.56.14:418][788]PIE: New page: PIE session: ReversiWorld (Mar 8, 2023, 7:56:14 PM)
+[2023.03.08-05.56.14:418][788]LogPlayLevel: Creating play world package: /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-05.56.14:419][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000397s)
+[2023.03.08-05.56.14:419][788]LogAIModule: Creating AISystem for world ReversiWorld
+[2023.03.08-05.56.14:419][788]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2023.03.08-05.56.14:419][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UMGReversi/Maps/ReversiWorld.ReversiWorld to /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld (0.001057s)
+[2023.03.08-05.56.14:422][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.03.08-05.56.14:422][788]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.08-05.56.14:422][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-05.56.14:422][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-05.56.14:422][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-05.56.14:422][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-05.56.14:422][788]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-05.56.14:422][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-05.56.14:422][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-05.56.14:422][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-05.56.14:423][788]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-05.56.14:423][788]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-05.56.14:423][788]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-05.56.14:423][788]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-05.56.14:425][788]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-05.56.14:425][788]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-05.56.14:434][788]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.03.08-05.56.14:434][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-05.56.14:434][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-05.56.14:434][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-05.56.14:434][788]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-05.56.14:434][788]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-05.56.14:434][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-05.56.14:435][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-05.56.14:435][788]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-05.56.14:435][788]LogInit: FAudioDevice initialized.
+[2023.03.08-05.56.14:435][788]LogAudio: Display: Audio Device (ID: 4) registered with world 'ReversiWorld'.
+[2023.03.08-05.56.14:441][788]LogLoad: Game class is 'BP_UMGReversiGameMode_C'
+[2023.03.08-05.56.14:441][788]LogWorld: Bringing World /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld up for play (max tick rate 0) at 2023.03.08-12.56.14
+[2023.03.08-05.56.14:441][788]LogWorld: Bringing up level for play took: 0.000181
+[2023.03.08-05.56.14:441][788]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2023.03.08-05.56.14:443][788]PIE: Server logged in
+[2023.03.08-05.56.14:444][788]PIE: Play in editor total start time 0.026 seconds.
+[2023.03.08-05.56.21:014][576]LogTemp: Warning: Capturable : 0
+[2023.03.08-05.56.23:030][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-05.56.23:030][815]LogWorld: BeginTearingDown for /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-05.56.23:030][815]LogWorld: UWorld::CleanupWorld for ReversiWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-05.56.23:030][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-05.56.23:037][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-05.56.23:038][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-05.56.23:040][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-05.56.23:041][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-05.56.23:041][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-05.56.23:044][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.03.08-05.56.23:109][823]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.03.08-05.56.32:793][968]LogHotReload: New module detected: UE4Editor-UMGReversi-0008.dll
+[2023.03.08-05.56.33:139][970]LogHotReload: Starting Hot-Reload from IDE
+[2023.03.08-05.56.33:175][970]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UMGReversi' in 0.0002 seconds. Added 4 classes and 2 folders.
+[2023.03.08-05.56.33:177][970]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2023.03.08-05.56.33:200][970]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0069 seconds. Added 3825 classes and 928 folders.
+[2023.03.08-05.56.33:202][970]Display: HotReload took  0.1s.
+[2023.03.08-05.57.45:928][187]LogHotReload: New module detected: UE4Editor-UMGReversi-0009.dll
+[2023.03.08-05.57.46:606][190]LogHotReload: Starting Hot-Reload from IDE
+[2023.03.08-05.57.46:640][190]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UMGReversi' in 0.0002 seconds. Added 4 classes and 2 folders.
+[2023.03.08-05.57.46:641][190]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2023.03.08-05.57.46:662][190]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0059 seconds. Added 3825 classes and 928 folders.
+[2023.03.08-05.57.46:664][190]Display: HotReload took  0.1s.
+[2023.03.08-05.57.47:972][199]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.08-05.57.47:975][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-05.57.47:975][199]PIE: New page: PIE session: ReversiWorld (Mar 8, 2023, 7:57:47 PM)
+[2023.03.08-05.57.47:975][199]LogPlayLevel: Creating play world package: /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-05.57.47:976][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000386s)
+[2023.03.08-05.57.47:976][199]LogAIModule: Creating AISystem for world ReversiWorld
+[2023.03.08-05.57.47:976][199]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2023.03.08-05.57.47:976][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UMGReversi/Maps/ReversiWorld.ReversiWorld to /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld (0.001035s)
+[2023.03.08-05.57.47:979][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.08-05.57.47:980][199]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.08-05.57.47:980][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-05.57.47:980][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-05.57.47:980][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-05.57.47:980][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-05.57.47:980][199]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-05.57.47:980][199]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-05.57.47:980][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-05.57.47:980][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-05.57.47:980][199]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-05.57.47:980][199]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-05.57.47:980][199]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-05.57.47:980][199]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-05.57.47:982][199]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-05.57.47:982][199]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-05.57.47:989][199]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.03.08-05.57.47:990][199]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-05.57.47:990][199]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-05.57.47:990][199]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-05.57.47:990][199]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-05.57.47:990][199]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-05.57.47:990][199]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-05.57.47:991][199]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-05.57.47:991][199]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-05.57.47:991][199]LogInit: FAudioDevice initialized.
+[2023.03.08-05.57.47:991][199]LogAudio: Display: Audio Device (ID: 5) registered with world 'ReversiWorld'.
+[2023.03.08-05.57.47:994][199]LogLoad: Game class is 'BP_UMGReversiGameMode_C'
+[2023.03.08-05.57.47:995][199]LogWorld: Bringing World /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld up for play (max tick rate 0) at 2023.03.08-12.57.47
+[2023.03.08-05.57.47:995][199]LogWorld: Bringing up level for play took: 0.000163
+[2023.03.08-05.57.47:995][199]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2023.03.08-05.57.47:996][199]PIE: Server logged in
+[2023.03.08-05.57.47:997][199]PIE: Play in editor total start time 0.022 seconds.
+[2023.03.08-05.57.49:972][436]LogTemp: Warning: Capturable : 1
+[2023.03.08-05.57.53:114][813]LogTemp: Warning: Capturable : 1
+[2023.03.08-05.57.56:264][191]LogTemp: Warning: Capturable : 1
+[2023.03.08-05.57.57:229][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-05.57.57:229][302]LogWorld: BeginTearingDown for /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-05.57.57:229][302]LogWorld: UWorld::CleanupWorld for ReversiWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-05.57.57:229][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-05.57.57:235][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-05.57.57:236][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-05.57.57:247][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-05.57.57:247][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-05.57.57:248][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-05.57.57:262][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.08-05.57.57:303][306]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.03.08-05.59.04:242][989]LogHotReload: New module detected: UE4Editor-UMGReversi-0010.dll
+[2023.03.08-05.59.04:924][992]LogHotReload: Starting Hot-Reload from IDE
+[2023.03.08-05.59.04:954][992]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UMGReversi' in 0.0002 seconds. Added 4 classes and 2 folders.
+[2023.03.08-05.59.04:955][992]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2023.03.08-05.59.04:977][992]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0058 seconds. Added 3825 classes and 928 folders.
+[2023.03.08-05.59.04:979][992]Display: HotReload took  0.1s.
+[2023.03.08-05.59.06:576][996]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.08-05.59.06:579][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-05.59.06:579][996]PIE: New page: PIE session: ReversiWorld (Mar 8, 2023, 7:59:06 PM)
+[2023.03.08-05.59.06:579][996]LogPlayLevel: Creating play world package: /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-05.59.06:579][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000413s)
+[2023.03.08-05.59.06:580][996]LogAIModule: Creating AISystem for world ReversiWorld
+[2023.03.08-05.59.06:580][996]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2023.03.08-05.59.06:580][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UMGReversi/Maps/ReversiWorld.ReversiWorld to /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld (0.001166s)
+[2023.03.08-05.59.06:583][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.08-05.59.06:583][996]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.08-05.59.06:583][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-05.59.06:583][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-05.59.06:583][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-05.59.06:583][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-05.59.06:583][996]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-05.59.06:583][996]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-05.59.06:583][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-05.59.06:583][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-05.59.06:584][996]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-05.59.06:584][996]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-05.59.06:584][996]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-05.59.06:584][996]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-05.59.06:586][996]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-05.59.06:586][996]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-05.59.06:593][996]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.03.08-05.59.06:593][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-05.59.06:593][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-05.59.06:593][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-05.59.06:593][996]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-05.59.06:593][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-05.59.06:593][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-05.59.06:594][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-05.59.06:594][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-05.59.06:594][996]LogInit: FAudioDevice initialized.
+[2023.03.08-05.59.06:594][996]LogAudio: Display: Audio Device (ID: 6) registered with world 'ReversiWorld'.
+[2023.03.08-05.59.06:597][996]LogLoad: Game class is 'BP_UMGReversiGameMode_C'
+[2023.03.08-05.59.06:598][996]LogWorld: Bringing World /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld up for play (max tick rate 0) at 2023.03.08-12.59.06
+[2023.03.08-05.59.06:598][996]LogWorld: Bringing up level for play took: 0.000160
+[2023.03.08-05.59.06:598][996]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2023.03.08-05.59.06:600][996]PIE: Server logged in
+[2023.03.08-05.59.06:600][996]PIE: Play in editor total start time 0.022 seconds.
+[2023.03.08-05.59.08:911][271]LogTemp: Warning: Capturable : 1
+[2023.03.08-05.59.12:236][670]LogTemp: Warning: Capturable : 1
+[2023.03.08-05.59.15:036][  6]LogTemp: Warning: Capturable : 1
+[2023.03.08-05.59.16:300][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-05.59.16:300][155]LogWorld: BeginTearingDown for /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-05.59.16:300][155]LogWorld: UWorld::CleanupWorld for ReversiWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-05.59.16:301][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-05.59.16:309][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-05.59.16:310][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-05.59.16:313][155]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.08-05.59.16:313][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-05.59.16:313][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-05.59.16:315][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-05.59.16:316][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.03.08-05.59.16:382][163]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.03.08-06.00.39:906][125]LogHotReload: New module detected: UE4Editor-UMGReversi-0011.dll
+[2023.03.08-06.00.40:254][127]LogHotReload: Starting Hot-Reload from IDE
+[2023.03.08-06.00.40:288][127]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UMGReversi' in 0.0002 seconds. Added 4 classes and 2 folders.
+[2023.03.08-06.00.40:290][127]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2023.03.08-06.00.40:313][127]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0068 seconds. Added 3825 classes and 928 folders.
+[2023.03.08-06.00.40:315][127]Display: HotReload took  0.1s.
+[2023.03.08-06.00.42:609][246]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.08-06.00.42:613][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-06.00.42:613][246]PIE: New page: PIE session: ReversiWorld (Mar 8, 2023, 8:00:42 PM)
+[2023.03.08-06.00.42:613][246]LogPlayLevel: Creating play world package: /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.00.42:614][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000386s)
+[2023.03.08-06.00.42:614][246]LogAIModule: Creating AISystem for world ReversiWorld
+[2023.03.08-06.00.42:614][246]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2023.03.08-06.00.42:614][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UMGReversi/Maps/ReversiWorld.ReversiWorld to /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld (0.001082s)
+[2023.03.08-06.00.42:617][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.08-06.00.42:617][246]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.08-06.00.42:617][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-06.00.42:617][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-06.00.42:617][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-06.00.42:617][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-06.00.42:617][246]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-06.00.42:617][246]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-06.00.42:617][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-06.00.42:617][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-06.00.42:618][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-06.00.42:618][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-06.00.42:618][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-06.00.42:618][246]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-06.00.42:620][246]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-06.00.42:620][246]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-06.00.42:627][246]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.03.08-06.00.42:627][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-06.00.42:627][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-06.00.42:627][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-06.00.42:627][246]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-06.00.42:627][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-06.00.42:627][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-06.00.42:628][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-06.00.42:628][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-06.00.42:628][246]LogInit: FAudioDevice initialized.
+[2023.03.08-06.00.42:628][246]LogAudio: Display: Audio Device (ID: 7) registered with world 'ReversiWorld'.
+[2023.03.08-06.00.42:636][246]LogLoad: Game class is 'BP_UMGReversiGameMode_C'
+[2023.03.08-06.00.42:636][246]LogWorld: Bringing World /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld up for play (max tick rate 0) at 2023.03.08-13.00.42
+[2023.03.08-06.00.42:636][246]LogWorld: Bringing up level for play took: 0.000183
+[2023.03.08-06.00.42:636][246]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.03.08-06.00.42:638][246]PIE: Server logged in
+[2023.03.08-06.00.42:639][246]PIE: Play in editor total start time 0.026 seconds.
+[2023.03.08-06.00.45:068][537]LogTemp: Warning: Capturable : 1
+[2023.03.08-06.00.50:730][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-06.00.50:730][212]LogWorld: BeginTearingDown for /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.00.50:730][212]LogWorld: UWorld::CleanupWorld for ReversiWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-06.00.50:730][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-06.00.50:735][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-06.00.50:736][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-06.00.50:739][212]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.08-06.00.50:739][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-06.00.50:739][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-06.00.50:741][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-06.00.50:742][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.08-06.00.50:799][219]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.03.08-06.01.07:580][451]LogHotReload: New module detected: UE4Editor-UMGReversi-0012.dll
+[2023.03.08-06.01.08:242][453]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.08-06.01.08:245][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-06.01.08:245][453]PIE: New page: PIE session: ReversiWorld (Mar 8, 2023, 8:01:08 PM)
+[2023.03.08-06.01.08:245][453]LogPlayLevel: Creating play world package: /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.01.08:245][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000381s)
+[2023.03.08-06.01.08:246][453]LogAIModule: Creating AISystem for world ReversiWorld
+[2023.03.08-06.01.08:246][453]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2023.03.08-06.01.08:246][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UMGReversi/Maps/ReversiWorld.ReversiWorld to /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld (0.001056s)
+[2023.03.08-06.01.08:249][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.03.08-06.01.08:249][453]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.03.08-06.01.08:249][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-06.01.08:249][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-06.01.08:249][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-06.01.08:249][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-06.01.08:249][453]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-06.01.08:249][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-06.01.08:249][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-06.01.08:249][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-06.01.08:249][453]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-06.01.08:249][453]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-06.01.08:249][453]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-06.01.08:249][453]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-06.01.08:251][453]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-06.01.08:251][453]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-06.01.08:258][453]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.03.08-06.01.08:259][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-06.01.08:259][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-06.01.08:259][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-06.01.08:259][453]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-06.01.08:259][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-06.01.08:259][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-06.01.08:260][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-06.01.08:260][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-06.01.08:260][453]LogInit: FAudioDevice initialized.
+[2023.03.08-06.01.08:260][453]LogAudio: Display: Audio Device (ID: 8) registered with world 'ReversiWorld'.
+[2023.03.08-06.01.08:266][453]LogLoad: Game class is 'BP_UMGReversiGameMode_C'
+[2023.03.08-06.01.08:266][453]LogWorld: Bringing World /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld up for play (max tick rate 0) at 2023.03.08-13.01.08
+[2023.03.08-06.01.08:266][453]LogWorld: Bringing up level for play took: 0.000174
+[2023.03.08-06.01.08:266][453]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.03.08-06.01.08:268][453]PIE: Server logged in
+[2023.03.08-06.01.08:268][453]PIE: Play in editor total start time 0.024 seconds.
+[2023.03.08-06.01.10:484][718]LogTemp: Warning: Capturable : 1
+[2023.03.08-06.01.12:210][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-06.01.12:210][922]LogWorld: BeginTearingDown for /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.01.12:210][922]LogWorld: UWorld::CleanupWorld for ReversiWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-06.01.12:210][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-06.01.12:214][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-06.01.12:215][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-06.01.12:218][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-06.01.12:218][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-06.01.12:218][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-06.01.12:221][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.03.08-06.01.12:238][923]LogHotReload: Starting Hot-Reload from IDE
+[2023.03.08-06.01.12:269][923]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UMGReversi' in 0.0002 seconds. Added 4 classes and 2 folders.
+[2023.03.08-06.01.12:270][923]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2023.03.08-06.01.12:295][923]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0094 seconds. Added 3825 classes and 928 folders.
+[2023.03.08-06.01.12:298][923]Display: HotReload took  0.1s.
+[2023.03.08-06.01.12:366][923]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.03.08-06.01.20:131][995]LogHotReload: New module detected: UE4Editor-UMGReversi-0013.dll
+[2023.03.08-06.01.20:824][998]LogHotReload: Starting Hot-Reload from IDE
+[2023.03.08-06.01.20:854][998]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UMGReversi' in 0.0002 seconds. Added 4 classes and 2 folders.
+[2023.03.08-06.01.20:855][998]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2023.03.08-06.01.20:876][998]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0057 seconds. Added 3825 classes and 928 folders.
+[2023.03.08-06.01.20:878][998]Display: HotReload took  0.1s.
+[2023.03.08-06.01.21:472][999]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.08-06.01.21:475][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-06.01.21:475][999]PIE: New page: PIE session: ReversiWorld (Mar 8, 2023, 8:01:21 PM)
+[2023.03.08-06.01.21:476][999]LogPlayLevel: Creating play world package: /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.01.21:476][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000362s)
+[2023.03.08-06.01.21:476][999]LogAIModule: Creating AISystem for world ReversiWorld
+[2023.03.08-06.01.21:476][999]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2023.03.08-06.01.21:477][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UMGReversi/Maps/ReversiWorld.ReversiWorld to /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld (0.001002s)
+[2023.03.08-06.01.21:479][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.08-06.01.21:480][999]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.03.08-06.01.21:480][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-06.01.21:480][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-06.01.21:480][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-06.01.21:480][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-06.01.21:480][999]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-06.01.21:480][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-06.01.21:480][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-06.01.21:480][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-06.01.21:480][999]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-06.01.21:480][999]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-06.01.21:480][999]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-06.01.21:480][999]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-06.01.21:482][999]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-06.01.21:482][999]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-06.01.21:489][999]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.03.08-06.01.21:489][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-06.01.21:489][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-06.01.21:489][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-06.01.21:489][999]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-06.01.21:489][999]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-06.01.21:489][999]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-06.01.21:490][999]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-06.01.21:490][999]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-06.01.21:490][999]LogInit: FAudioDevice initialized.
+[2023.03.08-06.01.21:490][999]LogAudio: Display: Audio Device (ID: 9) registered with world 'ReversiWorld'.
+[2023.03.08-06.01.21:497][999]LogLoad: Game class is 'BP_UMGReversiGameMode_C'
+[2023.03.08-06.01.21:497][999]LogWorld: Bringing World /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld up for play (max tick rate 0) at 2023.03.08-13.01.21
+[2023.03.08-06.01.21:497][999]LogWorld: Bringing up level for play took: 0.000186
+[2023.03.08-06.01.21:497][999]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.03.08-06.01.21:499][999]PIE: Server logged in
+[2023.03.08-06.01.21:499][999]PIE: Play in editor total start time 0.025 seconds.
+[2023.03.08-06.01.23:580][244]LogTemp: Warning: Capturable : 1
+[2023.03.08-06.01.27:097][666]LogTemp: Warning: Capturable : 1
+[2023.03.08-06.01.29:370][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-06.01.29:370][932]LogWorld: BeginTearingDown for /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.01.29:370][932]LogWorld: UWorld::CleanupWorld for ReversiWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-06.01.29:370][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-06.01.29:374][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-06.01.29:375][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-06.01.29:378][932]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.08-06.01.29:378][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-06.01.29:378][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-06.01.29:380][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-06.01.29:381][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.03.08-06.01.29:430][938]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.03.08-06.02.00:363][210]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.08-06.02.00:366][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-06.02.00:366][210]PIE: New page: PIE session: ReversiWorld (Mar 8, 2023, 8:02:00 PM)
+[2023.03.08-06.02.00:367][210]LogPlayLevel: Creating play world package: /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.02.00:367][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000384s)
+[2023.03.08-06.02.00:367][210]LogAIModule: Creating AISystem for world ReversiWorld
+[2023.03.08-06.02.00:368][210]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2023.03.08-06.02.00:368][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UMGReversi/Maps/ReversiWorld.ReversiWorld to /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld (0.001073s)
+[2023.03.08-06.02.00:370][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.03.08-06.02.00:371][210]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.03.08-06.02.00:371][210]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-06.02.00:371][210]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-06.02.00:371][210]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-06.02.00:371][210]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-06.02.00:371][210]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-06.02.00:371][210]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-06.02.00:371][210]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-06.02.00:371][210]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-06.02.00:371][210]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-06.02.00:371][210]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-06.02.00:371][210]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-06.02.00:371][210]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-06.02.00:373][210]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-06.02.00:373][210]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-06.02.00:380][210]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.03.08-06.02.00:380][210]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-06.02.00:380][210]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-06.02.00:380][210]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-06.02.00:381][210]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-06.02.00:381][210]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-06.02.00:381][210]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-06.02.00:381][210]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-06.02.00:381][210]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-06.02.00:381][210]LogInit: FAudioDevice initialized.
+[2023.03.08-06.02.00:381][210]LogAudio: Display: Audio Device (ID: 10) registered with world 'ReversiWorld'.
+[2023.03.08-06.02.00:390][210]LogLoad: Game class is 'BP_UMGReversiGameMode_C'
+[2023.03.08-06.02.00:390][210]LogWorld: Bringing World /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld up for play (max tick rate 0) at 2023.03.08-13.02.00
+[2023.03.08-06.02.00:390][210]LogWorld: Bringing up level for play took: 0.000177
+[2023.03.08-06.02.00:390][210]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.03.08-06.02.00:392][210]PIE: Server logged in
+[2023.03.08-06.02.00:393][210]PIE: Play in editor total start time 0.027 seconds.
+[2023.03.08-06.02.02:026][406]LogTemp: Warning: Capturable : 1
+[2023.03.08-06.02.03:160][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-06.02.03:160][538]LogWorld: BeginTearingDown for /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.02.03:160][538]LogWorld: UWorld::CleanupWorld for ReversiWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-06.02.03:160][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-06.02.03:166][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-06.02.03:167][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-06.02.03:169][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-06.02.03:170][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-06.02.03:170][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-06.02.03:173][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.08-06.02.03:233][544]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.03.08-06.02.09:952][684]LogHotReload: New module detected: UE4Editor-UMGReversi-0014.dll
+[2023.03.08-06.02.09:965][685]LogHotReload: Starting Hot-Reload from IDE
+[2023.03.08-06.02.09:999][685]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UMGReversi' in 0.0002 seconds. Added 4 classes and 2 folders.
+[2023.03.08-06.02.10:001][685]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2023.03.08-06.02.10:023][685]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0066 seconds. Added 3825 classes and 928 folders.
+[2023.03.08-06.02.10:025][685]Display: HotReload took  0.1s.
+[2023.03.08-06.02.11:313][691]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.08-06.02.11:316][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-06.02.11:316][691]PIE: New page: PIE session: ReversiWorld (Mar 8, 2023, 8:02:11 PM)
+[2023.03.08-06.02.11:316][691]LogPlayLevel: Creating play world package: /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.02.11:316][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000363s)
+[2023.03.08-06.02.11:317][691]LogAIModule: Creating AISystem for world ReversiWorld
+[2023.03.08-06.02.11:317][691]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2023.03.08-06.02.11:317][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UMGReversi/Maps/ReversiWorld.ReversiWorld to /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld (0.001009s)
+[2023.03.08-06.02.11:319][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.08-06.02.11:320][691]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.03.08-06.02.11:320][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-06.02.11:320][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-06.02.11:320][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-06.02.11:320][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-06.02.11:320][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-06.02.11:320][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-06.02.11:320][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-06.02.11:320][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-06.02.11:320][691]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-06.02.11:320][691]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-06.02.11:320][691]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-06.02.11:320][691]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-06.02.11:322][691]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-06.02.11:322][691]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-06.02.11:329][691]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.03.08-06.02.11:329][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-06.02.11:329][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-06.02.11:329][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-06.02.11:330][691]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-06.02.11:330][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-06.02.11:330][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-06.02.11:331][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-06.02.11:331][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-06.02.11:331][691]LogInit: FAudioDevice initialized.
+[2023.03.08-06.02.11:331][691]LogAudio: Display: Audio Device (ID: 11) registered with world 'ReversiWorld'.
+[2023.03.08-06.02.11:336][691]LogLoad: Game class is 'BP_UMGReversiGameMode_C'
+[2023.03.08-06.02.11:336][691]LogWorld: Bringing World /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld up for play (max tick rate 0) at 2023.03.08-13.02.11
+[2023.03.08-06.02.11:336][691]LogWorld: Bringing up level for play took: 0.000175
+[2023.03.08-06.02.11:336][691]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2023.03.08-06.02.11:338][691]PIE: Server logged in
+[2023.03.08-06.02.11:338][691]PIE: Play in editor total start time 0.023 seconds.
+[2023.03.08-06.02.14:020][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-06.02.14:020][  6]LogWorld: BeginTearingDown for /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.02.14:021][  6]LogWorld: UWorld::CleanupWorld for ReversiWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-06.02.14:021][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-06.02.14:030][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-06.02.14:031][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-06.02.14:034][  6]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.08-06.02.14:034][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-06.02.14:034][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-06.02.14:036][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-06.02.14:037][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.03.08-06.02.14:090][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.03.08-06.02.14:431][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.08-06.02.14:434][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-06.02.14:434][ 53]PIE: New page: PIE session: ReversiWorld (Mar 8, 2023, 8:02:14 PM)
+[2023.03.08-06.02.14:434][ 53]LogPlayLevel: Creating play world package: /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.02.14:434][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000381s)
+[2023.03.08-06.02.14:435][ 53]LogAIModule: Creating AISystem for world ReversiWorld
+[2023.03.08-06.02.14:435][ 53]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2023.03.08-06.02.14:435][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UMGReversi/Maps/ReversiWorld.ReversiWorld to /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld (0.001045s)
+[2023.03.08-06.02.14:438][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.03.08-06.02.14:438][ 53]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.03.08-06.02.14:438][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-06.02.14:438][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-06.02.14:438][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-06.02.14:438][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-06.02.14:438][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-06.02.14:438][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-06.02.14:438][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-06.02.14:438][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-06.02.14:438][ 53]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-06.02.14:438][ 53]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-06.02.14:438][ 53]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-06.02.14:438][ 53]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-06.02.14:441][ 53]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-06.02.14:441][ 53]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-06.02.14:448][ 53]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.03.08-06.02.14:448][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-06.02.14:448][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-06.02.14:448][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-06.02.14:448][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-06.02.14:448][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-06.02.14:448][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-06.02.14:449][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-06.02.14:449][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-06.02.14:449][ 53]LogInit: FAudioDevice initialized.
+[2023.03.08-06.02.14:449][ 53]LogAudio: Display: Audio Device (ID: 12) registered with world 'ReversiWorld'.
+[2023.03.08-06.02.14:456][ 53]LogLoad: Game class is 'BP_UMGReversiGameMode_C'
+[2023.03.08-06.02.14:456][ 53]LogWorld: Bringing World /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld up for play (max tick rate 0) at 2023.03.08-13.02.14
+[2023.03.08-06.02.14:456][ 53]LogWorld: Bringing up level for play took: 0.000184
+[2023.03.08-06.02.14:456][ 53]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.03.08-06.02.14:458][ 53]PIE: Server logged in
+[2023.03.08-06.02.14:459][ 53]PIE: Play in editor total start time 0.025 seconds.
+[2023.03.08-06.02.21:200][862]LogTemp: Warning: Capturable : 1
+[2023.03.08-06.02.23:530][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-06.02.23:530][137]LogWorld: BeginTearingDown for /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.02.23:531][137]LogWorld: UWorld::CleanupWorld for ReversiWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-06.02.23:531][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-06.02.23:541][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-06.02.23:542][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-06.02.23:544][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-06.02.23:545][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-06.02.23:545][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-06.02.23:548][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.03.08-06.02.23:596][143]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.03.08-06.02.24:273][222]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.08-06.02.24:276][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-06.02.24:276][222]PIE: New page: PIE session: ReversiWorld (Mar 8, 2023, 8:02:24 PM)
+[2023.03.08-06.02.24:276][222]LogPlayLevel: Creating play world package: /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.02.24:276][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000390s)
+[2023.03.08-06.02.24:276][222]LogAIModule: Creating AISystem for world ReversiWorld
+[2023.03.08-06.02.24:277][222]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2023.03.08-06.02.24:277][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UMGReversi/Maps/ReversiWorld.ReversiWorld to /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld (0.001044s)
+[2023.03.08-06.02.24:279][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.03.08-06.02.24:279][222]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.03.08-06.02.24:279][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-06.02.24:279][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-06.02.24:279][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-06.02.24:279][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-06.02.24:279][222]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-06.02.24:279][222]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-06.02.24:279][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-06.02.24:279][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-06.02.24:279][222]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-06.02.24:279][222]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-06.02.24:279][222]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-06.02.24:280][222]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-06.02.24:282][222]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-06.02.24:282][222]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-06.02.24:289][222]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.03.08-06.02.24:289][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-06.02.24:289][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-06.02.24:289][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-06.02.24:289][222]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-06.02.24:289][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-06.02.24:289][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-06.02.24:290][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-06.02.24:290][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-06.02.24:290][222]LogInit: FAudioDevice initialized.
+[2023.03.08-06.02.24:290][222]LogAudio: Display: Audio Device (ID: 13) registered with world 'ReversiWorld'.
+[2023.03.08-06.02.24:293][222]LogLoad: Game class is 'BP_UMGReversiGameMode_C'
+[2023.03.08-06.02.24:294][222]LogWorld: Bringing World /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld up for play (max tick rate 0) at 2023.03.08-13.02.24
+[2023.03.08-06.02.24:294][222]LogWorld: Bringing up level for play took: 0.000167
+[2023.03.08-06.02.24:294][222]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.03.08-06.02.24:296][222]PIE: Server logged in
+[2023.03.08-06.02.24:296][222]PIE: Play in editor total start time 0.021 seconds.
+[2023.03.08-06.02.48:274][ 99]LogTemp: Warning: Capturable : 1
+[2023.03.08-06.02.50:361][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-06.02.50:361][342]LogWorld: BeginTearingDown for /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.02.50:361][342]LogWorld: UWorld::CleanupWorld for ReversiWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-06.02.50:361][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-06.02.50:365][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-06.02.50:366][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-06.02.50:368][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-06.02.50:368][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-06.02.50:369][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-06.02.50:372][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.03.08-06.02.50:428][349]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.03.08-06.02.50:914][406]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.08-06.02.50:917][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-06.02.50:917][406]PIE: New page: PIE session: ReversiWorld (Mar 8, 2023, 8:02:50 PM)
+[2023.03.08-06.02.50:917][406]LogPlayLevel: Creating play world package: /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.02.50:917][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000386s)
+[2023.03.08-06.02.50:918][406]LogAIModule: Creating AISystem for world ReversiWorld
+[2023.03.08-06.02.50:918][406]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2023.03.08-06.02.50:918][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UMGReversi/Maps/ReversiWorld.ReversiWorld to /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld (0.001050s)
+[2023.03.08-06.02.50:921][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.08-06.02.50:921][406]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.03.08-06.02.50:921][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-06.02.50:921][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-06.02.50:921][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-06.02.50:921][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-06.02.50:921][406]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-06.02.50:921][406]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-06.02.50:921][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-06.02.50:921][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-06.02.50:921][406]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-06.02.50:921][406]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-06.02.50:921][406]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-06.02.50:921][406]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-06.02.50:923][406]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-06.02.50:923][406]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-06.02.50:930][406]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.03.08-06.02.50:931][406]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-06.02.50:931][406]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-06.02.50:931][406]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-06.02.50:931][406]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-06.02.50:931][406]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-06.02.50:931][406]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-06.02.50:932][406]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-06.02.50:932][406]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-06.02.50:932][406]LogInit: FAudioDevice initialized.
+[2023.03.08-06.02.50:932][406]LogAudio: Display: Audio Device (ID: 14) registered with world 'ReversiWorld'.
+[2023.03.08-06.02.50:940][406]LogLoad: Game class is 'BP_UMGReversiGameMode_C'
+[2023.03.08-06.02.50:940][406]LogWorld: Bringing World /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld up for play (max tick rate 0) at 2023.03.08-13.02.50
+[2023.03.08-06.02.50:940][406]LogWorld: Bringing up level for play took: 0.000157
+[2023.03.08-06.02.50:940][406]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.03.08-06.02.50:942][406]PIE: Server logged in
+[2023.03.08-06.02.50:943][406]PIE: Play in editor total start time 0.026 seconds.
+[2023.03.08-06.02.55:950][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-06.02.55:950][  2]LogWorld: BeginTearingDown for /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.02.55:950][  2]LogWorld: UWorld::CleanupWorld for ReversiWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-06.02.55:950][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-06.02.55:959][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.08-06.02.55:960][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-06.02.55:963][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.08-06.02.55:963][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-06.02.55:963][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.08-06.02.55:966][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.03.08-06.02.56:023][  9]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.03.08-06.02.56:440][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.08-06.02.56:444][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.08-06.02.56:444][ 59]PIE: New page: PIE session: ReversiWorld (Mar 8, 2023, 8:02:56 PM)
+[2023.03.08-06.02.56:444][ 59]LogPlayLevel: Creating play world package: /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld
+[2023.03.08-06.02.56:444][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000384s)
+[2023.03.08-06.02.56:444][ 59]LogAIModule: Creating AISystem for world ReversiWorld
+[2023.03.08-06.02.56:444][ 59]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2023.03.08-06.02.56:444][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UMGReversi/Maps/ReversiWorld.ReversiWorld to /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld (0.001045s)
+[2023.03.08-06.02.56:448][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.03.08-06.02.56:448][ 59]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.03.08-06.02.56:448][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.08-06.02.56:448][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.08-06.02.56:448][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.08-06.02.56:448][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.08-06.02.56:448][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.08-06.02.56:448][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.08-06.02.56:448][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.08-06.02.56:448][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.08-06.02.56:448][ 59]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.08-06.02.56:448][ 59]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.08-06.02.56:448][ 59]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.08-06.02.56:448][ 59]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.08-06.02.56:450][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.08-06.02.56:450][ 59]LogAudioMixer: Display: 1: FrontRight
+[2023.03.08-06.02.56:457][ 59]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.03.08-06.02.56:457][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.08-06.02.56:457][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.08-06.02.56:457][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.08-06.02.56:458][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.08-06.02.56:458][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.08-06.02.56:458][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.08-06.02.56:459][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.08-06.02.56:459][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.08-06.02.56:459][ 59]LogInit: FAudioDevice initialized.
+[2023.03.08-06.02.56:459][ 59]LogAudio: Display: Audio Device (ID: 15) registered with world 'ReversiWorld'.
+[2023.03.08-06.02.56:464][ 59]LogLoad: Game class is 'BP_UMGReversiGameMode_C'
+[2023.03.08-06.02.56:464][ 59]LogWorld: Bringing World /Game/UMGReversi/Maps/UEDPIE_0_ReversiWorld.ReversiWorld up for play (max tick rate 0) at 2023.03.08-13.02.56
+[2023.03.08-06.02.56:464][ 59]LogWorld: Bringing up level for play took: 0.000182
+[2023.03.08-06.02.56:464][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.03.08-06.02.56:466][ 59]PIE: Server logged in
+[2023.03.08-06.02.56:467][ 59]PIE: Play in editor total start time 0.023 seconds.
+[2023.03.08-06.03.01:911][711]LogOutputDevice: Warning: 
+
+Script Stack (4 frames):
+WBP_GamePlay_C.ExecuteUbergraph_WBP_GamePlay
+WBP_GamePlay_C.Construct
+WPB_StartMenu_C.ExecuteUbergraph_WPB_StartMenu
+WPB_StartMenu_C.BndEvt__WPB_StartMenu_StartGameButton_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature
+
+[2023.03.08-06.03.01:911][711]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2023.03.08-06.03.09:467][711]LogWindows: Could not start crash report client using ../../../Engine/Binaries/Win64/CrashReportClientEditor-Win64-Debug.exe
+[2023.03.08-06.03.09:467][711]LogMemory: Platform Memory Stats for Windows
+[2023.03.08-06.03.09:467][711]LogMemory: Process Physical Memory: 1979.01 MB used, 1981.03 MB peak
+[2023.03.08-06.03.09:467][711]LogMemory: Process Virtual Memory: 1953.76 MB used, 1955.81 MB peak
+[2023.03.08-06.03.09:467][711]LogMemory: Physical Memory: 18038.68 MB used,  13856.20 MB free, 31894.89 MB total
+[2023.03.08-06.03.09:467][711]LogMemory: Virtual Memory: 134203024.00 MB used,  14706.76 MB free, 134217728.00 MB total
+[2023.03.08-06.03.09:467][711]Message dialog closed, result: Ok, title: The UE4-UMGReversi Editor has crashed and will close, text: Assertion failed: (Index >= 0) & (Index < ArrayNum) [File:C:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Containers/Array.h] [Line: 703] 
+Array index out of bounds: -120 from an array of size 256
+
+
+
+[2023.03.08-06.03.09:467][711]LogWindows: Error: === Critical error: ===
+[2023.03.08-06.03.09:467][711]LogWindows: Error: 
+[2023.03.08-06.03.09:467][711]LogWindows: Error: Assertion failed: (Index >= 0) & (Index < ArrayNum) [File:C:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Containers/Array.h] [Line: 703] 
+[2023.03.08-06.03.09:467][711]LogWindows: Error: Array index out of bounds: -120 from an array of size 256
+[2023.03.08-06.03.09:467][711]LogWindows: Error: 
+[2023.03.08-06.03.09:467][711]LogWindows: Error: 
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff91afacd29 KERNELBASE.dll!UnknownFunction []
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8772d9f16 UE4Editor-Core.dll!ReportAssert() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Private\Windows\WindowsPlatformCrashContext.cpp:1644]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8772dddc8 UE4Editor-Core.dll!FWindowsErrorOutputDevice::Serialize() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Private\Windows\WindowsErrorOutputDevice.cpp:78]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff876fefc90 UE4Editor-Core.dll!FOutputDevice::LogfImpl() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Private\Misc\OutputDevice.cpp:61]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff876f75545 UE4Editor-Core.dll!AssertFailedImplV() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Private\Misc\AssertionMacros.cpp:104]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff876f77710 UE4Editor-Core.dll!FDebug::CheckVerifyFailedImpl() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Private\Misc\AssertionMacros.cpp:461]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8cbccc258 UE4Editor-UMGReversi-0014.dll!DispatchCheckVerify<void,<lambda_5312e163f4316f34b50a6dfa9fdf9722> >() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:165]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8cbcc45a6 UE4Editor-UMGReversi-0014.dll!AUMGReversiGameModeBase::CheckCapturableDiscs() [C:\Unreal Project\UMGReversi\Source\UMGReversi\UMGReversiGameModeBase.cpp:293]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8cbcc50bc UE4Editor-UMGReversi-0014.dll!AUMGReversiGameModeBase::Next() [C:\Unreal Project\UMGReversi\Source\UMGReversi\UMGReversiGameModeBase.cpp:121]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8cbcc4e6e UE4Editor-UMGReversi-0014.dll!AUMGReversiGameModeBase::InitBoard() [C:\Unreal Project\UMGReversi\Source\UMGReversi\UMGReversiGameModeBase.cpp:72]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff876680fc4 UE4Editor-CoreUObject.dll!UFunction::Invoke() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:5679]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff87693ce68 UE4Editor-CoreUObject.dll!UObject::CallFunction() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1023]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff87695fbc0 UE4Editor-CoreUObject.dll!UObject::ProcessContextOpcode() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:2896]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff87696230e UE4Editor-CoreUObject.dll!ProcessLocalScriptFunction() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1093]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8769300ca UE4Editor-CoreUObject.dll!ProcessScriptFunction<void (__cdecl*)(UObject *,FFrame &,void *)>() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:924]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff876961efd UE4Editor-CoreUObject.dll!ProcessLocalFunction() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1154]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff87696230e UE4Editor-CoreUObject.dll!ProcessLocalScriptFunction() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1093]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff876961734 UE4Editor-CoreUObject.dll!UObject::ProcessInternal() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1181]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff876680fc4 UE4Editor-CoreUObject.dll!UFunction::Invoke() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:5679]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff876961263 UE4Editor-CoreUObject.dll!UObject::ProcessEvent() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:2018]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8672aac1e UE4Editor-UMG.dll!UUserWidget::NativeConstruct() [C:\UnrealEngine-4.27\Engine\Source\Runtime\UMG\Private\UserWidget.cpp:1339]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff86731d7e3 UE4Editor-UMG.dll!UWidget::TakeWidget_Private() [C:\UnrealEngine-4.27\Engine\Source\Runtime\UMG\Private\Components\Widget.cpp:881]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff86731ce88 UE4Editor-UMG.dll!UWidget::TakeWidget() [C:\UnrealEngine-4.27\Engine\Source\Runtime\UMG\Private\Components\Widget.cpp:798]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff867232e31 UE4Editor-UMG.dll!UUserWidget::AddToScreen() [C:\UnrealEngine-4.27\Engine\Source\Runtime\UMG\Private\UserWidget.cpp:920]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8cbcc4123 UE4Editor-UMGReversi-0014.dll!AUMGReversiGameModeBase::ChangeMenuWidget() [C:\Unreal Project\UMGReversi\Source\UMGReversi\UMGReversiGameModeBase.cpp:57]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8cbcc6f78 UE4Editor-UMGReversi-0014.dll!AUMGReversiGameModeBase::execChangeMenuWidget() [C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Inc\UMGReversi\UMGReversiGameModeBase.gen.cpp:46]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff876680fc4 UE4Editor-CoreUObject.dll!UFunction::Invoke() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:5679]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff87693ce68 UE4Editor-CoreUObject.dll!UObject::CallFunction() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1023]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff87695fbc0 UE4Editor-CoreUObject.dll!UObject::ProcessContextOpcode() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:2896]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff87696230e UE4Editor-CoreUObject.dll!ProcessLocalScriptFunction() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1093]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8769300ca UE4Editor-CoreUObject.dll!ProcessScriptFunction<void (__cdecl*)(UObject *,FFrame &,void *)>() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:924]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff876961efd UE4Editor-CoreUObject.dll!ProcessLocalFunction() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1154]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff87696230e UE4Editor-CoreUObject.dll!ProcessLocalScriptFunction() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1093]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff876961734 UE4Editor-CoreUObject.dll!UObject::ProcessInternal() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1181]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff876680fc4 UE4Editor-CoreUObject.dll!UFunction::Invoke() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:5679]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff876961263 UE4Editor-CoreUObject.dll!UObject::ProcessEvent() [C:\UnrealEngine-4.27\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:2018]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8671e52d4 UE4Editor-UMG.dll!TMulticastScriptDelegate<FWeakObjectPtr>::ProcessMulticastDelegate<UObject>() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\UObject\ScriptDelegates.h:488]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff86730e007 UE4Editor-UMG.dll!UButton::SlateHandleClicked() [C:\UnrealEngine-4.27\Engine\Source\Runtime\UMG\Private\Components\Button.cpp:205]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff86726b843 UE4Editor-UMG.dll!TBaseUObjectMethodDelegateInstance<0,UButton,FReply __cdecl(void),FDefaultDelegateUserPolicy>::Execute() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:593]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8761c4b4d UE4Editor-Slate.dll!SButton::ExecuteOnClick() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Slate\Private\Widgets\Input\SButton.cpp:385]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8761dd9f2 UE4Editor-Slate.dll!SButton::OnMouseButtonUp() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Slate\Private\Widgets\Input\SButton.cpp:304]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff876025b7c UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_cc5aea9e7377b04ce85c30c65ec3889b> >() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:378]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8760a40b4 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4831]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff87608cc72 UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5372]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff87607fc76 UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5337]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8f6e6d264 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [C:\UnrealEngine-4.27\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2205]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8f6e5a207 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [C:\UnrealEngine-4.27\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2698]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8f6e6f9f0 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [C:\UnrealEngine-4.27\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:1881]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8f6e55280 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [C:\UnrealEngine-4.27\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:905]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff91b36e7e8 USER32.dll!UnknownFunction []
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff91b36e229 USER32.dll!UnknownFunction []
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff8f6e70f34 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [C:\UnrealEngine-4.27\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsPlatformApplicationMisc.cpp:125]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff6c2807297 UE4Editor.exe!FEngineLoop::Tick() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:4850]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff6c28215cc UE4Editor.exe!GuardedMain() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\Launch.cpp:178]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff6c28216ba UE4Editor.exe!GuardedMainWrapper() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:137]
+[2023.03.08-06.03.09:467][711]LogWindows: Error: [Callstack] 0x00007ff6c2824691 UE4Editor.exe!LaunchWindowsStartup() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:273]
+[2023.03.08-06.03.09:468][711]LogWindows: Error: [Callstack] 0x00007ff6c2835b94 UE4Editor.exe!WinMain() [C:\UnrealEngine-4.27\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:320]
+[2023.03.08-06.03.09:468][711]LogWindows: Error: [Callstack] 0x00007ff6c2838746 UE4Editor.exe!__scrt_common_main_seh() [D:\a\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2023.03.08-06.03.09:468][711]LogWindows: Error: [Callstack] 0x00007ff91b6c7614 KERNEL32.DLL!UnknownFunction []
+[2023.03.08-06.03.09:468][711]LogWindows: Error: [Callstack] 0x00007ff91d2626a1 ntdll.dll!UnknownFunction []
+[2023.03.08-06.03.09:468][711]LogWindows: Error: 
+[2023.03.08-06.03.09:480][711]LogExit: Executing StaticShutdownAfterError
+[2023.03.08-06.03.09:482][711]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.03.08-06.03.09:482][711]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2023.03.08-06.03.09:482][711]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.03.08-06.03.09:490][711]Log file closed, 03/08/23 13:03:09

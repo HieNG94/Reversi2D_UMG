@@ -182,6 +182,14 @@ void EmptyLinkFunctionForGeneratedCodeUMGReversiGameModeBase() {}
 #endif
 		static const UE4CodeGen_Private::FIntPropertyParams NewProp_Size;
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_TimeLimit_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_TimeLimit;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_TimeCounter_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_TimeCounter;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Turn_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FIntPropertyParams NewProp_Turn;
@@ -247,6 +255,20 @@ void EmptyLinkFunctionForGeneratedCodeUMGReversiGameModeBase() {}
 #endif
 	const UE4CodeGen_Private::FIntPropertyParams Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_Size = { "Size", nullptr, (EPropertyFlags)0x0020080000000004, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AUMGReversiGameModeBase, Size), METADATA_PARAMS(Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_Size_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_Size_MetaData)) };
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_TimeLimit_MetaData[] = {
+		{ "Category", "UMGReversiGameModeBase" },
+		{ "ModuleRelativePath", "UMGReversiGameModeBase.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_TimeLimit = { "TimeLimit", nullptr, (EPropertyFlags)0x0020080000000004, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AUMGReversiGameModeBase, TimeLimit), METADATA_PARAMS(Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_TimeLimit_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_TimeLimit_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_TimeCounter_MetaData[] = {
+		{ "Category", "UMGReversiGameModeBase" },
+		{ "ModuleRelativePath", "UMGReversiGameModeBase.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_TimeCounter = { "TimeCounter", nullptr, (EPropertyFlags)0x0020080000000004, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AUMGReversiGameModeBase, TimeCounter), METADATA_PARAMS(Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_TimeCounter_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_TimeCounter_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_Turn_MetaData[] = {
 		{ "Category", "UMGReversiGameModeBase" },
 		{ "ModuleRelativePath", "UMGReversiGameModeBase.h" },
@@ -272,6 +294,8 @@ void EmptyLinkFunctionForGeneratedCodeUMGReversiGameModeBase() {}
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_EndingWidgetClass,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_CurrentWidget,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_Size,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_TimeLimit,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_TimeCounter,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_Turn,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_NumOfBlackDiscs,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AUMGReversiGameModeBase_Statics::NewProp_NumOfWhiteDiscs,
@@ -303,7 +327,7 @@ void EmptyLinkFunctionForGeneratedCodeUMGReversiGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AUMGReversiGameModeBase, 2513023951);
+	IMPLEMENT_CLASS(AUMGReversiGameModeBase, 2996483819);
 	template<> UMGREVERSI_API UClass* StaticClass<AUMGReversiGameModeBase>()
 	{
 		return AUMGReversiGameModeBase::StaticClass();

@@ -1,11 +1,12 @@
-﻿  Building UMGReversiEditor and ShaderCompileWorker...
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Unreal Project\UMGReversi).
+  Building UMGReversiEditor and ShaderCompileWorker...
   Using Visual Studio 2022 14.35.32215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 4 actions with 16 processes...
     [1/4] UMGReversiGameModeBase.cpp
-    [2/4] UE4Editor-UMGReversi-0012.lib
-       Creating library C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\UE4Editor-UMGReversi-0012.lib and object C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\UE4Editor-UMGReversi-0012.exp
-    [3/4] UE4Editor-UMGReversi-0012.dll
-       Creating library C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\UE4Editor-UMGReversi-0012.suppressed.lib and object C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\UE4Editor-UMGReversi-0012.suppressed.exp
+    [2/4] UE4Editor-UMGReversi-0004.lib
+       Creating library C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\UE4Editor-UMGReversi-0004.lib and object C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\UE4Editor-UMGReversi-0004.exp
+    [3/4] UE4Editor-UMGReversi-0004.dll
+       Creating library C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\UE4Editor-UMGReversi-0004.suppressed.lib and object C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\UE4Editor-UMGReversi-0004.suppressed.exp
     [4/4] UMGReversiEditor.target
-  Total time in Parallel executor: 2.08 seconds
-  Total execution time: 3.27 seconds
+  Total time in Parallel executor: 2.18 seconds
+  Total execution time: 3.62 seconds

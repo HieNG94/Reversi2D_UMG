@@ -34,6 +34,12 @@ protected:
 	int32 Size;
 
 	UPROPERTY(BlueprintReadWrite)
+	float TimeLimit;
+	
+	UPROPERTY(BlueprintReadWrite)
+	float TimeCounter = TimeLimit;
+
+	UPROPERTY(BlueprintReadWrite)
 	int32 Turn = 1;
 
 	UPROPERTY(BlueprintReadWrite)
@@ -56,23 +62,40 @@ public:
 	void InitBoard();
 
 	void SwitchTurn();
+	void Next(UUMGReversiTile* TTile);
 	int32 GetTurn();
 
 	UTexture* GetTileTexture(int32 State);
-	void CheckValidMove(UUMGReversiTile* TTile);
-	void CheckSurroundTile(UUMGReversiTile* TTile);
-	bool CheckPossibilityEarn(int32 TIndex);
+
+	void CheckValidMove();
+
+	void GetAllSurroundTiles(UUMGReversiTile* TTile);
+	void RemoveSurroundTiles(UUMGReversiTile* TTile);
+
 	void ShowValidTiles();
 	void RemoveValidTile(UUMGReversiTile* TTile);
+
 	int32 GetDirCheck(int32 DirCheck, int32 SelectedIndex);
+	void CheckCapturableDiscs(UUMGReversiTile* TTile);
+	void CaptureDiscs();
 	void DiscCounter();
+	void TurnTimer();
+
+	void AICheck();
+	void AIMove();
 
 private:
+	bool EndGame = false;
+	float DelayMove = 1.5f;
+	int32 NoValidMove;
+	FTimerHandle DelayAIHandler;
+	FTimerHandle TimeLimitHandler;
 	UTexture* BlackTileText;
 	UTexture* WhiteTileText;
 	UTexture* ValidTileText;
 	UTexture* EmptyTileText;
 	TArray<class UUMGReversiTile*> AllTiles;
+	TArray<class UUMGReversiTile*> SurroundTiles;
 	TArray<class UUMGReversiTile*> ValidTiles;
 	TArray<class UUMGReversiTile*> EarnTiles;
 };

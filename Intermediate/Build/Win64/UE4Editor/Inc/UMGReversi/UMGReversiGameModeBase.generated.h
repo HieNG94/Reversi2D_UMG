@@ -77,6 +77,8 @@ public: \
 	FORCEINLINE static uint32 __PPO__EndingWidgetClass() { return STRUCT_OFFSET(AUMGReversiGameModeBase, EndingWidgetClass); } \
 	FORCEINLINE static uint32 __PPO__CurrentWidget() { return STRUCT_OFFSET(AUMGReversiGameModeBase, CurrentWidget); } \
 	FORCEINLINE static uint32 __PPO__Size() { return STRUCT_OFFSET(AUMGReversiGameModeBase, Size); } \
+	FORCEINLINE static uint32 __PPO__TimeLimit() { return STRUCT_OFFSET(AUMGReversiGameModeBase, TimeLimit); } \
+	FORCEINLINE static uint32 __PPO__TimeCounter() { return STRUCT_OFFSET(AUMGReversiGameModeBase, TimeCounter); } \
 	FORCEINLINE static uint32 __PPO__Turn() { return STRUCT_OFFSET(AUMGReversiGameModeBase, Turn); } \
 	FORCEINLINE static uint32 __PPO__NumOfBlackDiscs() { return STRUCT_OFFSET(AUMGReversiGameModeBase, NumOfBlackDiscs); } \
 	FORCEINLINE static uint32 __PPO__NumOfWhiteDiscs() { return STRUCT_OFFSET(AUMGReversiGameModeBase, NumOfWhiteDiscs); }

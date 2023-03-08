@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeUMGReversi_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x67305791,
+				0xB48667AF,
 				0xDCACDD34,
 				METADATA_PARAMS(nullptr, 0)
 			};

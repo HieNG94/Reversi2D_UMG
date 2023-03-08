@@ -20,78 +20,35 @@ void UUMGReversiTile::NativeConstruct()
 
 void UUMGReversiTile::UpdateTile()
 {
-	if (State == 3)
-	{
-		if (GM->GetTurn() == 1)
-		{
-			if (CanBlackMove)
-			{
-				Btn->WidgetStyle.Normal.SetResourceObject(GM->GetTileTexture(State));
-			}
-			else
-			{
-				Btn->WidgetStyle.Normal.SetResourceObject(GM->GetTileTexture(0));
-			}
-		}
-		else
-		{
-			if (CanWhiteMove)
-			{
-				Btn->WidgetStyle.Normal.SetResourceObject(GM->GetTileTexture(State));
-			}
-			else
-			{
-				Btn->WidgetStyle.Normal.SetResourceObject(GM->GetTileTexture(0));
-			}
-		}
-	}
-	else
-	{
-		Btn->WidgetStyle.Normal.SetResourceObject(GM->GetTileTexture(State));
-	}
+	Btn->WidgetStyle.Normal.SetResourceObject(GM->GetTileTexture(State));
 }
 
 void UUMGReversiTile::PlaceDisc()
 {
 	if (GM->GetTurn() == 1)
 	{
-		SetTileStatus(1, true, false, false);
+		SetTileStatus(1, true, false);
 	}
 	else
 	{
-		SetTileStatus(2, true, false, false);
+		SetTileStatus(2, true, false);
 	}
 	UpdateTile();
-	GM->RemoveValidTile(this);
-	GM->CheckValidMove(this);
-	GM->DiscCounter();
-	GM->SwitchTurn();
+	GM->Next(this);
 }
 
-void UUMGReversiTile::SetTileStatus(int32 TState, bool TPlaced, bool TCanBMove, bool TCanWMove)
+void UUMGReversiTile::SetTileStatus(int32 TState, bool TPlaced, bool TCanMove)
 {
 	State = TState;
 	Placed = TPlaced;
-	CanBlackMove = TCanBMove;
-	CanWhiteMove = TCanWMove;
+	CanMove = TCanMove;
 }
 
 void UUMGReversiTile::OnBtnClicked()
 {
-	UE_LOG(LogTemp, Warning, TEXT("Clicked %d"), State);
-
-	if (GM->GetTurn() == 1)
+	UE_LOG(LogTemp, Warning, TEXT("Capturable : %d"), Capturable);
+	if (CanMove && GM->GetTurn() == 1)
 	{
-		if (CanWhiteMove)
-		{
-			PlaceDisc();
-		}
-	}
-	else
-	{
-		if (CanBlackMove)
-		{
-			PlaceDisc();
-		}
+		PlaceDisc();
 	}
 }

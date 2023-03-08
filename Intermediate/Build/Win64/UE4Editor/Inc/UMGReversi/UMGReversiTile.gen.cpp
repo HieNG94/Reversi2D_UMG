@@ -18,16 +18,16 @@ void EmptyLinkFunctionForGeneratedCodeUMGReversiTile() {}
 	UMG_API UClass* Z_Construct_UClass_UUserWidget();
 	UPackage* Z_Construct_UPackage__Script_UMGReversi();
 	UMG_API UClass* Z_Construct_UClass_UButton_NoRegister();
+	UMG_API UClass* Z_Construct_UClass_UWidgetAnimation_NoRegister();
 // End Cross Module References
 	DEFINE_FUNCTION(UUMGReversiTile::execSetTileStatus)
 	{
 		P_GET_PROPERTY(FIntProperty,Z_Param_TState);
 		P_GET_UBOOL(Z_Param_TPlaced);
-		P_GET_UBOOL(Z_Param_TCanBMove);
-		P_GET_UBOOL(Z_Param_TCanWMove);
+		P_GET_UBOOL(Z_Param_TCanMove);
 		P_FINISH;
 		P_NATIVE_BEGIN;
-		P_THIS->SetTileStatus(Z_Param_TState,Z_Param_TPlaced,Z_Param_TCanBMove,Z_Param_TCanWMove);
+		P_THIS->SetTileStatus(Z_Param_TState,Z_Param_TPlaced,Z_Param_TCanMove);
 		P_NATIVE_END;
 	}
 	DEFINE_FUNCTION(UUMGReversiTile::execOnBtnClicked)
@@ -74,16 +74,13 @@ void EmptyLinkFunctionForGeneratedCodeUMGReversiTile() {}
 		{
 			int32 TState;
 			bool TPlaced;
-			bool TCanBMove;
-			bool TCanWMove;
+			bool TCanMove;
 		};
 		static const UE4CodeGen_Private::FIntPropertyParams NewProp_TState;
 		static void NewProp_TPlaced_SetBit(void* Obj);
 		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_TPlaced;
-		static void NewProp_TCanBMove_SetBit(void* Obj);
-		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_TCanBMove;
-		static void NewProp_TCanWMove_SetBit(void* Obj);
-		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_TCanWMove;
+		static void NewProp_TCanMove_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_TCanMove;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
@@ -96,26 +93,19 @@ void EmptyLinkFunctionForGeneratedCodeUMGReversiTile() {}
 		((UMGReversiTile_eventSetTileStatus_Parms*)Obj)->TPlaced = 1;
 	}
 	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::NewProp_TPlaced = { "TPlaced", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(UMGReversiTile_eventSetTileStatus_Parms), &Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::NewProp_TPlaced_SetBit, METADATA_PARAMS(nullptr, 0) };
-	void Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::NewProp_TCanBMove_SetBit(void* Obj)
+	void Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::NewProp_TCanMove_SetBit(void* Obj)
 	{
-		((UMGReversiTile_eventSetTileStatus_Parms*)Obj)->TCanBMove = 1;
+		((UMGReversiTile_eventSetTileStatus_Parms*)Obj)->TCanMove = 1;
 	}
-	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::NewProp_TCanBMove = { "TCanBMove", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(UMGReversiTile_eventSetTileStatus_Parms), &Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::NewProp_TCanBMove_SetBit, METADATA_PARAMS(nullptr, 0) };
-	void Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::NewProp_TCanWMove_SetBit(void* Obj)
-	{
-		((UMGReversiTile_eventSetTileStatus_Parms*)Obj)->TCanWMove = 1;
-	}
-	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::NewProp_TCanWMove = { "TCanWMove", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(UMGReversiTile_eventSetTileStatus_Parms), &Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::NewProp_TCanWMove_SetBit, METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::NewProp_TCanMove = { "TCanMove", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(UMGReversiTile_eventSetTileStatus_Parms), &Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::NewProp_TCanMove_SetBit, METADATA_PARAMS(nullptr, 0) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::NewProp_TState,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::NewProp_TPlaced,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::NewProp_TCanBMove,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::NewProp_TCanWMove,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::NewProp_TCanMove,
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UUMGReversiTile_SetTileStatus_Statics::Function_MetaDataParams[] = {
-		{ "CPP_Default_TCanBMove", "false" },
-		{ "CPP_Default_TCanWMove", "false" },
+		{ "CPP_Default_TCanMove", "false" },
 		{ "CPP_Default_TPlaced", "false" },
 		{ "ModuleRelativePath", "UMGReversiTile.h" },
 	};
@@ -145,6 +135,10 @@ void EmptyLinkFunctionForGeneratedCodeUMGReversiTile() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Btn_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_Btn;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_FlipAnimation_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_FlipAnimation;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -155,7 +149,7 @@ void EmptyLinkFunctionForGeneratedCodeUMGReversiTile() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_UUMGReversiTile_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_UUMGReversiTile_OnBtnClicked, "OnBtnClicked" }, // 2593195152
-		{ &Z_Construct_UFunction_UUMGReversiTile_SetTileStatus, "SetTileStatus" }, // 2957800110
+		{ &Z_Construct_UFunction_UUMGReversiTile_SetTileStatus, "SetTileStatus" }, // 676113702
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UUMGReversiTile_Statics::Class_MetaDataParams[] = {
@@ -173,8 +167,16 @@ void EmptyLinkFunctionForGeneratedCodeUMGReversiTile() {}
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_UUMGReversiTile_Statics::NewProp_Btn = { "Btn", nullptr, (EPropertyFlags)0x002008000008000c, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UUMGReversiTile, Btn), Z_Construct_UClass_UButton_NoRegister, METADATA_PARAMS(Z_Construct_UClass_UUMGReversiTile_Statics::NewProp_Btn_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UUMGReversiTile_Statics::NewProp_Btn_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UUMGReversiTile_Statics::NewProp_FlipAnimation_MetaData[] = {
+		{ "BindWidgetAnim", "" },
+		{ "ModuleRelativePath", "UMGReversiTile.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_UUMGReversiTile_Statics::NewProp_FlipAnimation = { "FlipAnimation", nullptr, (EPropertyFlags)0x0010000000002000, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UUMGReversiTile, FlipAnimation), Z_Construct_UClass_UWidgetAnimation_NoRegister, METADATA_PARAMS(Z_Construct_UClass_UUMGReversiTile_Statics::NewProp_FlipAnimation_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UUMGReversiTile_Statics::NewProp_FlipAnimation_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UUMGReversiTile_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UUMGReversiTile_Statics::NewProp_Btn,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UUMGReversiTile_Statics::NewProp_FlipAnimation,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_UUMGReversiTile_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<UUMGReversiTile>::IsAbstract,
@@ -203,7 +205,7 @@ void EmptyLinkFunctionForGeneratedCodeUMGReversiTile() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UUMGReversiTile, 2965743983);
+	IMPLEMENT_CLASS(UUMGReversiTile, 1796078712);
 	template<> UMGREVERSI_API UClass* StaticClass<UUMGReversiTile>()
 	{
 		return UUMGReversiTile::StaticClass();
