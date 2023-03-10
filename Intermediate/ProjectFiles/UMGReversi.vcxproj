@@ -207,7 +207,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{FBBD78DD-2385-4476-A125-13B3F0C0889B}</ProjectGuid>
+    <ProjectGuid>{6F2D6373-9350-4BA5-9B3E-6BE453CE287F}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>UMGReversi</RootNamespace>
     <PlatformToolset>v143</PlatformToolset>
@@ -225,7 +225,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug_Editor|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -233,7 +233,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Debug|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -241,7 +241,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Debug_Editor|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -249,7 +249,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -257,7 +257,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame_Editor|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -265,7 +265,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Mac_DebugGame|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -273,7 +273,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Mac_DebugGame_Editor|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -281,7 +281,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -289,7 +289,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development_Editor|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -297,7 +297,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Development|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -305,7 +305,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Development_Editor|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -313,7 +313,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -321,7 +321,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Shipping|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -329,7 +329,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Test|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -337,7 +337,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Test|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -345,7 +345,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
@@ -646,7 +646,7 @@
 		<AdditionalOptions>/ZW /ZW:nostdlib</AdditionalOptions>
 		<NMakePreprocessorDefinitions>$(NMakePreprocessorDefinitions);PLATFORM_HOLOLENS=1;HOLOLENS=1;</NMakePreprocessorDefinitions>
 		<NMakeAssemblySearchPath>$(NMakeAssemblySearchPath);C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\Store\references</NMakeAssemblySearchPath>
-		<NMakeForcedUsingAssemblies>$(NMakeForcedUsingAssemblies);C:\Program Files (x86)\Windows Kits\10\References\10.0.22000.0\Windows.Foundation.FoundationContract\4.0.0.0\Windows.Foundation.FoundationContract.winmd;C:\Program Files (x86)\Windows Kits\10\References\10.0.22000.0\Windows.Foundation.UniversalApiContract\14.0.0.0\Windows.Foundation.UniversalApiContract.winmd;platform.winmd</NMakeForcedUsingAssemblies>
+		<NMakeForcedUsingAssemblies>$(NMakeForcedUsingAssemblies);C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Foundation.FoundationContract\3.0.0.0\Windows.Foundation.FoundationContract.winmd;C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Foundation.UniversalApiContract\8.0.0.0\Windows.Foundation.UniversalApiContract.winmd;platform.winmd</NMakeForcedUsingAssemblies>
   </PropertyGroup>
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|arm64'">
 		<RemoveExtraDeployFiles>false</RemoveExtraDeployFiles>
@@ -762,7 +762,7 @@
 		<AdditionalOptions>/ZW /ZW:nostdlib</AdditionalOptions>
 		<NMakePreprocessorDefinitions>$(NMakePreprocessorDefinitions);PLATFORM_HOLOLENS=1;HOLOLENS=1;</NMakePreprocessorDefinitions>
 		<NMakeAssemblySearchPath>$(NMakeAssemblySearchPath);C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\Store\references</NMakeAssemblySearchPath>
-		<NMakeForcedUsingAssemblies>$(NMakeForcedUsingAssemblies);C:\Program Files (x86)\Windows Kits\10\References\10.0.22000.0\Windows.Foundation.FoundationContract\4.0.0.0\Windows.Foundation.FoundationContract.winmd;C:\Program Files (x86)\Windows Kits\10\References\10.0.22000.0\Windows.Foundation.UniversalApiContract\14.0.0.0\Windows.Foundation.UniversalApiContract.winmd;platform.winmd</NMakeForcedUsingAssemblies>
+		<NMakeForcedUsingAssemblies>$(NMakeForcedUsingAssemblies);C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Foundation.FoundationContract\3.0.0.0\Windows.Foundation.FoundationContract.winmd;C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Foundation.UniversalApiContract\8.0.0.0\Windows.Foundation.UniversalApiContract.winmd;platform.winmd</NMakeForcedUsingAssemblies>
   </PropertyGroup>
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|arm64'">
 		<RemoveExtraDeployFiles>false</RemoveExtraDeployFiles>
@@ -878,7 +878,7 @@
 		<AdditionalOptions>/ZW /ZW:nostdlib</AdditionalOptions>
 		<NMakePreprocessorDefinitions>$(NMakePreprocessorDefinitions);PLATFORM_HOLOLENS=1;HOLOLENS=1;</NMakePreprocessorDefinitions>
 		<NMakeAssemblySearchPath>$(NMakeAssemblySearchPath);C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\Store\references</NMakeAssemblySearchPath>
-		<NMakeForcedUsingAssemblies>$(NMakeForcedUsingAssemblies);C:\Program Files (x86)\Windows Kits\10\References\10.0.22000.0\Windows.Foundation.FoundationContract\4.0.0.0\Windows.Foundation.FoundationContract.winmd;C:\Program Files (x86)\Windows Kits\10\References\10.0.22000.0\Windows.Foundation.UniversalApiContract\14.0.0.0\Windows.Foundation.UniversalApiContract.winmd;platform.winmd</NMakeForcedUsingAssemblies>
+		<NMakeForcedUsingAssemblies>$(NMakeForcedUsingAssemblies);C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Foundation.FoundationContract\3.0.0.0\Windows.Foundation.FoundationContract.winmd;C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Foundation.UniversalApiContract\8.0.0.0\Windows.Foundation.UniversalApiContract.winmd;platform.winmd</NMakeForcedUsingAssemblies>
   </PropertyGroup>
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|arm64'">
 		<RemoveExtraDeployFiles>false</RemoveExtraDeployFiles>
@@ -977,7 +977,7 @@
 		<AdditionalOptions>/ZW /ZW:nostdlib</AdditionalOptions>
 		<NMakePreprocessorDefinitions>$(NMakePreprocessorDefinitions);PLATFORM_HOLOLENS=1;HOLOLENS=1;</NMakePreprocessorDefinitions>
 		<NMakeAssemblySearchPath>$(NMakeAssemblySearchPath);C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\Store\references</NMakeAssemblySearchPath>
-		<NMakeForcedUsingAssemblies>$(NMakeForcedUsingAssemblies);C:\Program Files (x86)\Windows Kits\10\References\10.0.22000.0\Windows.Foundation.FoundationContract\4.0.0.0\Windows.Foundation.FoundationContract.winmd;C:\Program Files (x86)\Windows Kits\10\References\10.0.22000.0\Windows.Foundation.UniversalApiContract\14.0.0.0\Windows.Foundation.UniversalApiContract.winmd;platform.winmd</NMakeForcedUsingAssemblies>
+		<NMakeForcedUsingAssemblies>$(NMakeForcedUsingAssemblies);C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Foundation.FoundationContract\3.0.0.0\Windows.Foundation.FoundationContract.winmd;C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Foundation.UniversalApiContract\8.0.0.0\Windows.Foundation.UniversalApiContract.winmd;platform.winmd</NMakeForcedUsingAssemblies>
   </PropertyGroup>
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|arm64'">
 		<RemoveExtraDeployFiles>false</RemoveExtraDeployFiles>
@@ -1059,7 +1059,7 @@
 		<AdditionalOptions>/ZW /ZW:nostdlib</AdditionalOptions>
 		<NMakePreprocessorDefinitions>$(NMakePreprocessorDefinitions);PLATFORM_HOLOLENS=1;HOLOLENS=1;</NMakePreprocessorDefinitions>
 		<NMakeAssemblySearchPath>$(NMakeAssemblySearchPath);C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x86\Store\references</NMakeAssemblySearchPath>
-		<NMakeForcedUsingAssemblies>$(NMakeForcedUsingAssemblies);C:\Program Files (x86)\Windows Kits\10\References\10.0.22000.0\Windows.Foundation.FoundationContract\4.0.0.0\Windows.Foundation.FoundationContract.winmd;C:\Program Files (x86)\Windows Kits\10\References\10.0.22000.0\Windows.Foundation.UniversalApiContract\14.0.0.0\Windows.Foundation.UniversalApiContract.winmd;platform.winmd</NMakeForcedUsingAssemblies>
+		<NMakeForcedUsingAssemblies>$(NMakeForcedUsingAssemblies);C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Foundation.FoundationContract\3.0.0.0\Windows.Foundation.FoundationContract.winmd;C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Foundation.UniversalApiContract\8.0.0.0\Windows.Foundation.UniversalApiContract.winmd;platform.winmd</NMakeForcedUsingAssemblies>
   </PropertyGroup>
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Test|arm64'">
 		<RemoveExtraDeployFiles>false</RemoveExtraDeployFiles>
@@ -1099,6 +1099,8 @@
     <None Include="..\..\UMGReversi.uproject"/>
     <None Include="..\..\Source\UMGReversi.Target.cs"/>
     <None Include="..\..\Source\UMGReversiEditor.Target.cs"/>
+    <None Include="..\..\.gitignore"/>
+    <None Include="..\..\UMGReversi.png"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>

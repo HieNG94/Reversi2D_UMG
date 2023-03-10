@@ -91,7 +91,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{B85F8B67-DBF2-416D-866C-03775C77F2F3}</ProjectGuid>
+    <ProjectGuid>{59A9BAAD-1928-4352-B6D6-D47249045281}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>DatasmithFacadeCSharp</RootNamespace>
     <PlatformToolset>v143</PlatformToolset>

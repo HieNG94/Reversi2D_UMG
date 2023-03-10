@@ -91,7 +91,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{BBD0F301-27F2-4338-936B-F913D59748CE}</ProjectGuid>
+    <ProjectGuid>{52B5DDCC-6159-4655-8BDB-7F2A1837EC2E}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>DatasmithRhino6</RootNamespace>
     <PlatformToolset>v143</PlatformToolset>

@@ -27,7 +27,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{AB44B4D0-40A2-48F6-9ED2-6A002EE601D5}</ProjectGuid>
+    <ProjectGuid>{1BD7E993-3566-4F1D-A708-26BC853E15CF}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>DatasmithSketchUpRuby2021</RootNamespace>
     <PlatformToolset>v143</PlatformToolset>

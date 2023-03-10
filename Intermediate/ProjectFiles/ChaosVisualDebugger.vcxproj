@@ -91,7 +91,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{0D5FEC6E-60DD-4E92-8150-0CA3A7884238}</ProjectGuid>
+    <ProjectGuid>{979B23EB-2ED7-4B0F-BFB5-5A59D1203518}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>ChaosVisualDebugger</RootNamespace>
     <PlatformToolset>v143</PlatformToolset>

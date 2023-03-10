@@ -135,7 +135,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{8ABD829C-1385-454B-8589-C12B2D802736}</ProjectGuid>
+    <ProjectGuid>{CEE7F1FD-440F-4DAC-8448-CE25036720B7}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>HeadlessChaosPerf</RootNamespace>
     <PlatformToolset>v143</PlatformToolset>
@@ -153,7 +153,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Debug_Program|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -161,7 +161,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame_Program|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -169,7 +169,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Mac_DebugGame_Program|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -177,7 +177,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development_Program|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -185,7 +185,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Development_Program|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -193,7 +193,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping_Program|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -201,7 +201,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Shipping_Program|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -209,7 +209,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Test_Program|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -217,7 +217,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Mac_Test_Program|arm64'" Label="Configuration">
 		<AppContainerApplication>true</AppContainerApplication>
@@ -225,7 +225,7 @@
 		<ApplicationTypeRevision>10.0</ApplicationTypeRevision>
 		<WindowsAppContainer>true</WindowsAppContainer>
 		<AppxPackage>true</AppxPackage>
-		<WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+		<WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">

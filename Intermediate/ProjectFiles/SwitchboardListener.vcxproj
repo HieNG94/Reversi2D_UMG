@@ -91,7 +91,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{0B261B66-E056-4A54-A6DA-E76330F2E702}</ProjectGuid>
+    <ProjectGuid>{71BCAE51-0ED3-45E8-BCCF-24630757D963}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>SwitchboardListener</RootNamespace>
     <PlatformToolset>v143</PlatformToolset>

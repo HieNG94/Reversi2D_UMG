@@ -27,7 +27,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{87E1972B-21A3-4E69-9708-7ADF0F083F0C}</ProjectGuid>
+    <ProjectGuid>{9137C14E-76FF-4ADB-9A3C-B6A25D811DC8}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>DatasmithMax2019</RootNamespace>
     <PlatformToolset>v143</PlatformToolset>

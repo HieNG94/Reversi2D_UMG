@@ -91,7 +91,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{4B812C4A-7479-4BAB-A9F5-F3B24100EC03}</ProjectGuid>
+    <ProjectGuid>{CAF74577-9F1C-46EB-ADFA-42EB66C28453}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>UnrealFileServer</RootNamespace>
     <PlatformToolset>v143</PlatformToolset>

@@ -127,10 +127,10 @@ void AUMGReversiGameModeBase::Next(UUMGReversiTile* TTile)
 
 		if (NumOfBlackDiscs + NumOfWhiteDiscs > 4)
 		{
-			/*if (Turn == 2)*/
+			if (Turn == 2)
 			{
+				AIMove();
 			}
-			AIMove();
 
 			TimeCounter = TimeLimit;
 			GetWorldTimerManager().ClearTimer(TimeLimitHandler);
@@ -186,7 +186,7 @@ void AUMGReversiGameModeBase::ShowValidTiles()
 	{
 		NoValidMove++;
 		SwitchTurn();
-		if (NoValidMove >= 2)
+		if (NoValidMove >= 2 && !EndGame)
 		{
 			EndGame = true;
 			GetWorldTimerManager().ClearTimer(TimeLimitHandler);

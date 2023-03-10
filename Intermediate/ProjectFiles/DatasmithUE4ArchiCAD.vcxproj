@@ -91,7 +91,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{24882FA0-5377-43CB-B1E8-F909F98A0541}</ProjectGuid>
+    <ProjectGuid>{8B50F773-A890-4EB5-9537-C2D37C886572}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>DatasmithUE4ArchiCAD</RootNamespace>
     <PlatformToolset>v143</PlatformToolset>

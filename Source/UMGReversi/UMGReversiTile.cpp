@@ -34,6 +34,7 @@ void UUMGReversiTile::PlaceDisc()
 		SetTileStatus(2, true, false);
 	}
 	UpdateTile();
+	Btn->SetVisibility(ESlateVisibility::HitTestInvisible);
 	GM->Next(this);
 }
 
@@ -46,7 +47,6 @@ void UUMGReversiTile::SetTileStatus(int32 TState, bool TPlaced, bool TCanMove)
 
 void UUMGReversiTile::OnBtnClicked()
 {
-	UE_LOG(LogTemp, Warning, TEXT("Capturable : %d"), Capturable);
 	if (CanMove && GM->GetTurn() == 1)
 	{
 		PlaceDisc();

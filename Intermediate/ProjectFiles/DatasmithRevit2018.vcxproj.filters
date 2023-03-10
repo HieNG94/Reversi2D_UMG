@@ -9,67 +9,67 @@
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2022.Build.cs" />
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\ReadMe.txt" />
     <Filter Include="DatasmithRevit2018">
-      <UniqueIdentifier>{9C2C995D-C201-4055-8E86-7CE0845FDC5C}</UniqueIdentifier>
+      <UniqueIdentifier>{95A670F4-19AA-4C79-AB41-58E75C67C40B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2018\DatasmithRevit2018.addin">
       <Filter>DatasmithRevit2018</Filter>
     </None>
     <Filter Include="DatasmithRevit2018\Properties">
-      <UniqueIdentifier>{8E9ADE58-C7D0-457D-A8B4-6E275B165844}</UniqueIdentifier>
+      <UniqueIdentifier>{691F4AB8-FD70-456D-97D2-E1442EB0A0E6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2018\Properties\AssemblyInfo.cs">
       <Filter>DatasmithRevit2018\Properties</Filter>
     </None>
     <Filter Include="DatasmithRevit2019">
-      <UniqueIdentifier>{DFA22D92-3621-4BBF-AFE2-4BE23DFEC08F}</UniqueIdentifier>
+      <UniqueIdentifier>{9FCE042B-47CA-4DC0-951B-B45634228399}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2019\DatasmithRevit2019.addin">
       <Filter>DatasmithRevit2019</Filter>
     </None>
     <Filter Include="DatasmithRevit2019\Properties">
-      <UniqueIdentifier>{DBDB52F3-F5D1-4196-BD4A-1A274B9B68EF}</UniqueIdentifier>
+      <UniqueIdentifier>{A366BDE3-69DA-44DB-ACC2-33AFD3F61059}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2019\Properties\AssemblyInfo.cs">
       <Filter>DatasmithRevit2019\Properties</Filter>
     </None>
     <Filter Include="DatasmithRevit2020">
-      <UniqueIdentifier>{BD997B41-7A5A-4383-8321-69836F72C978}</UniqueIdentifier>
+      <UniqueIdentifier>{EA9D6406-47DB-49D4-A09F-F0C185323119}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2020\DatasmithRevit2020.addin">
       <Filter>DatasmithRevit2020</Filter>
     </None>
     <Filter Include="DatasmithRevit2020\Properties">
-      <UniqueIdentifier>{A5DA3AF6-B7BA-4C9E-81A2-ECA7903CB398}</UniqueIdentifier>
+      <UniqueIdentifier>{89C9519C-3A80-4C2E-BCB8-EF2A5A8AD3C5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2020\Properties\AssemblyInfo.cs">
       <Filter>DatasmithRevit2020\Properties</Filter>
     </None>
     <Filter Include="DatasmithRevit2021">
-      <UniqueIdentifier>{CC0D2C2F-42FF-4EFE-8096-25AD9035EC72}</UniqueIdentifier>
+      <UniqueIdentifier>{4E20CC78-A30B-4239-AA1B-353EA678DCC5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2021\DatasmithRevit2021.addin">
       <Filter>DatasmithRevit2021</Filter>
     </None>
     <Filter Include="DatasmithRevit2021\Properties">
-      <UniqueIdentifier>{A925E317-0A36-4F7B-AAAB-93019595F959}</UniqueIdentifier>
+      <UniqueIdentifier>{437EBF54-D2ED-4311-8920-5AAAE41384E1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2021\Properties\AssemblyInfo.cs">
       <Filter>DatasmithRevit2021\Properties</Filter>
     </None>
     <Filter Include="DatasmithRevit2022">
-      <UniqueIdentifier>{CE6BF089-0900-454F-B57F-232FF5D88452}</UniqueIdentifier>
+      <UniqueIdentifier>{45F4EFD3-E73D-492E-A9B5-25CC63036C43}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2022\DatasmithRevit2022.addin">
       <Filter>DatasmithRevit2022</Filter>
     </None>
     <Filter Include="DatasmithRevit2022\Properties">
-      <UniqueIdentifier>{0CD88083-1ABF-456C-AD1C-C9362E54F87C}</UniqueIdentifier>
+      <UniqueIdentifier>{6FACD8CA-6E2F-457F-998A-0AB9BDC41B1B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2022\Properties\AssemblyInfo.cs">
       <Filter>DatasmithRevit2022\Properties</Filter>
     </None>
     <Filter Include="Installer">
-      <UniqueIdentifier>{702B565C-2216-4135-BDAC-C6664E1CC558}</UniqueIdentifier>
+      <UniqueIdentifier>{3363C357-0286-4DB2-8B7D-E456EF42FBEF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\CreateMultilanguageInstaller.bat">
       <Filter>Installer</Filter>
@@ -105,7 +105,7 @@
       <Filter>Installer</Filter>
     </None>
     <Filter Include="Installer\Localization">
-      <UniqueIdentifier>{30B22B4E-E050-4822-BE8B-8C37E38C3238}</UniqueIdentifier>
+      <UniqueIdentifier>{D3867AD8-6F35-4B0C-9D86-420B185F3513}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Localization\de-de.wxl">
       <Filter>Installer\Localization</Filter>
@@ -150,7 +150,7 @@
       <Filter>Installer\Localization</Filter>
     </None>
     <Filter Include="Installer\Resources">
-      <UniqueIdentifier>{0F36ED4F-2D88-4721-AD57-7A1BAD5F580D}</UniqueIdentifier>
+      <UniqueIdentifier>{52FDB699-8432-47FE-B22F-81161763AF69}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Banner.bmp">
       <Filter>Installer\Resources</Filter>
@@ -177,13 +177,13 @@
       <Filter>Installer\Resources</Filter>
     </None>
     <Filter Include="Installer\Resources\Images">
-      <UniqueIdentifier>{A1EDB2A5-198E-42C7-A2D8-54B81E1F1AAF}</UniqueIdentifier>
+      <UniqueIdentifier>{A6E548DD-BA8D-4708-BD06-C0174AEEC25D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Images\Epic_Games_logo.bmp">
       <Filter>Installer\Resources\Images</Filter>
     </None>
     <Filter Include="Installer\Resources\Images\Background">
-      <UniqueIdentifier>{E47F3FA7-116C-4B51-9FCA-952A756D47A4}</UniqueIdentifier>
+      <UniqueIdentifier>{16CBDB37-240C-4BFA-B754-08435217C213}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Images\Background\28190.bmp">
       <Filter>Installer\Resources\Images\Background</Filter>
@@ -201,7 +201,7 @@
       <Filter>Installer\Resources\Images\Background</Filter>
     </None>
     <Filter Include="Installer\Resources\Images\General">
-      <UniqueIdentifier>{C03F5F0B-F576-4CAA-B762-E46EB7C2F906}</UniqueIdentifier>
+      <UniqueIdentifier>{8C7A21F5-96C3-4F69-A1F2-4BAFA93960DF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Images\General\banner.bmp">
       <Filter>Installer\Resources\Images\General</Filter>
@@ -210,7 +210,7 @@
       <Filter>Installer\Resources\Images\General</Filter>
     </None>
     <Filter Include="Private">
-      <UniqueIdentifier>{9269DA75-3E6B-4E02-BF3E-AB7BBDFAA51A}</UniqueIdentifier>
+      <UniqueIdentifier>{D2339204-E0B2-48AB-985F-A529317EF153}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Private\DatasmithDynamoNode.cs">
       <Filter>Private</Filter>
@@ -243,7 +243,7 @@
       <Filter>Private</Filter>
     </None>
     <Filter Include="Resources">
-      <UniqueIdentifier>{ED4E6CC6-1606-49A4-99F1-6F815194FDA2}</UniqueIdentifier>
+      <UniqueIdentifier>{F033C2C1-3924-4C06-8733-67371C5DDCDE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Strings.de.resx">
       <Filter>Resources</Filter>
@@ -273,7 +273,7 @@
       <Filter>Resources</Filter>
     </None>
     <Filter Include="Resources\Windows">
-      <UniqueIdentifier>{127F3049-0E59-4469-A640-7ECD5DA2F1A8}</UniqueIdentifier>
+      <UniqueIdentifier>{751E6BF8-E260-40B6-87B1-1CD336F301B1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\UnrealEngine-4.27\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Windows\DatasmithBatchExporter.dyn">
       <Filter>Resources\Windows</Filter>

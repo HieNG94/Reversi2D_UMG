@@ -1,12 +1,28 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Unreal Project\UMGReversi).
+  Creating makefile for UMGReversiEditor (no existing makefile)
+  Creating makefile for UnrealHeaderTool (no existing makefile)
+  Parsing headers for UMGReversiEditor
+    Running UnrealHeaderTool "C:\Unreal Project\UMGReversi\UMGReversi.uproject" "C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UMGReversiEditor\Development\UMGReversiEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\UnrealEngine-4.27\Engine\Programs\UnrealBuildTool\Log_UHT.txt"
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for UMGReversiEditor in 2.3928526 seconds
+  Creating makefile for ShaderCompileWorker (no existing makefile)
   Building UMGReversiEditor and ShaderCompileWorker...
   Using Visual Studio 2022 14.35.32215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 16 processes...
-    [1/4] UMGReversiGameModeBase.cpp
-    [2/4] UE4Editor-UMGReversi-0004.lib
-       Creating library C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\UE4Editor-UMGReversi-0004.lib and object C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\UE4Editor-UMGReversi-0004.exp
-    [3/4] UE4Editor-UMGReversi-0004.dll
-       Creating library C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\UE4Editor-UMGReversi-0004.suppressed.lib and object C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\UE4Editor-UMGReversi-0004.suppressed.exp
-    [4/4] UMGReversiEditor.target
-  Total time in Parallel executor: 2.18 seconds
-  Total execution time: 3.62 seconds
+  Building 13 actions with 16 processes...
+    [1/13] UMGReversi.cpp
+    [2/13] UMGReversiController.cpp
+    [3/13] UMGReversi.init.gen.cpp
+    [4/13] UMGReversiController.gen.cpp
+    [5/13] UMGReversiGameModeBase.gen.cpp
+    [6/13] UMGReversiBoard.cpp
+    [7/13] UMGReversiTile.gen.cpp
+    [8/13] UMGReversiBoard.gen.cpp
+    [9/13] UMGReversiTile.cpp
+    [10/13] UMGReversiGameModeBase.cpp
+    [11/13] UE4Editor-UMGReversi.lib
+       Creating library C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\UE4Editor-UMGReversi.lib and object C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\UE4Editor-UMGReversi.exp
+    [12/13] UE4Editor-UMGReversi.dll
+       Creating library C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\UE4Editor-UMGReversi.suppressed.lib and object C:\Unreal Project\UMGReversi\Intermediate\Build\Win64\UE4Editor\Development\UMGReversi\UE4Editor-UMGReversi.suppressed.exp
+    [13/13] UMGReversiEditor.target
+  Total time in Parallel executor: 2.46 seconds
+  Total execution time: 7.59 seconds
